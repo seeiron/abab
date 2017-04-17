@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista odtwarzania</title>
+	<trackList>
+		<track>
+			<location>acestream://75a7883832664c4630e11dd9008cad6cfce02b81/</location>
+			<title>ANIMAL PLANET</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://75a7883832664c4630e11dd9008cad6cfce02b81/</location>
+			<title>ANIMAL PLANET  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6205b36037fa33993a0531ef04a364e4be6d5bc1/</location>
+			<title>AXN  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6205b36037fa33993a0531ef04a364e4be6d5bc1/</location>
+			<title>AXN HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://de00565c9d1089bf0aa1815253ccb4571a7dc61b/</location>
+			<title>CANAL+    PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6ebe0dee46cb02bd082c00d04ffba1e659b2de09/</location>
+			<title>CANAL+ 1   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6ebe0dee46cb02bd082c00d04ffba1e659b2de09/</location>
+			<title>CANAL+ 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://bd48435fd05ad206ba0c214d54b16a9fd5fdf6af/</location>
+			<title>CANAL+ FAMILY  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://bd48435fd05ad206ba0c214d54b16a9fd5fdf6af/</location>
+			<title>CANAL+ FAMILY HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5d33b87c4020012569ce3e1048d6bc6d453c7bf1/</location>
+			<title>CANAL+ FILM  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5d33b87c4020012569ce3e1048d6bc6d453c7bf1/</location>
+			<title>CANAL+ FILM HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://de00565c9d1089bf0aa1815253ccb4571a7dc61b/</location>
+			<title>CANAL+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://da916d14a48dc3723c8230fa15348a00b130852c/</location>
+			<title>CANAL+ SERIALE</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://da916d14a48dc3723c8230fa15348a00b130852c/</location>
+			<title>CANAL+ SERIALE     PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://417f39408a9abba031aeba579aed19b106bd6cb8/</location>
+			<title>CANAL+ SPORT   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://889a87380feae5ece6556df82f51d43abc1b5357/</location>
+			<title>CANAL+ SPORT 2  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://889a87380feae5ece6556df82f51d43abc1b5357/</location>
+			<title>CANAL+ SPORT 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://417f39408a9abba031aeba579aed19b106bd6cb8/</location>
+			<title>CANAL+ SPORT HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0d961b1f7fc901441e7204a3bf5d1e2d25f92e6f/</location>
+			<title>CINEMAX  PL  M</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0d961b1f7fc901441e7204a3bf5d1e2d25f92e6f/</location>
+			<title>CINEMAX HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://55df6b12aa4e6697024704babc9bbdcdc7c8e28c/</location>
+			<title>DISCOVERY  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://55df6b12aa4e6697024704babc9bbdcdc7c8e28c/</location>
+			<title>DISCOVERY CHANNEL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>8f9c5a0e94511d30f5e013110adb6d620ae0a6a0</location>
+			<title>Discovery Science HD1080 EN</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://55beb9975f11473cc171d5f067098a7ffe484037/</location>
+			<title>DISNEY  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://55beb9975f11473cc171d5f067098a7ffe484037/</location>
+			<title>DISNEY CHANNEL HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6f53d514f6d4cb4c911e8518a2667cd385f7a778/</location>
+			<title>DISNEY JR  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://6f53d514f6d4cb4c911e8518a2667cd385f7a778/</location>
+			<title>DISNEY JUNIOR</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>702e57a9cb64d20034edaf4f8f907644b85a4686</location>
+			<title>Djing Ibiza HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>7c5de6bf28b89e5cb6ce6511eb2e217d4575fd51</location>
+			<title>Djing Ibiza Hd</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://36cea05613c0006f8b301a839b9cefef1cffe2d5/</location>
+			<title>ELEVEN  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e9e02097369d96b4ce5cbccc5025f06718355170/</location>
+			<title>ELEVEN  SPORT PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://36cea05613c0006f8b301a839b9cefef1cffe2d5/</location>
+			<title>ELEVEN PL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e9e02097369d96b4ce5cbccc5025f06718355170/</location>
+			<title>ELEVEN SPORT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://14ae757b38e4aeb1b3e935404830d8c84ee4f0c2/</location>
+			<title>EUROSPORT 1  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://14ae757b38e4aeb1b3e935404830d8c84ee4f0c2/</location>
+			<title>EUROSPORT 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://53ca46fe58b78ef44351d641abfa329a333d0aa5/</location>
+			<title>EXTREME SPORT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://2fb27ae7bbff363e3d5710935ea1b9ee37709540/</location>
+			<title>FIGHTBOX   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://2fb27ae7bbff363e3d5710935ea1b9ee37709540/</location>
+			<title>FIGHTBOX  HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://35dfd5f5139f43773a93140ee5bb5f29ac45f5b6/</location>
+			<title>HBO   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://09999132396eb470e81fda709cb52e4e3b0f0264/</location>
+			<title>HBO 2  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://09999132396eb470e81fda709cb52e4e3b0f0264/</location>
+			<title>HBO 2 HD PL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://3716bcfd909d8051ffbf12e762cf6f2e50017a92/</location>
+			<title>HBO 3 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://35dfd5f5139f43773a93140ee5bb5f29ac45f5b6/</location>
+			<title>HBO HD PL</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>4a0650823b7b5a608997d83dcf6d04f42fd0aed9</location>
+			<title>HIPHOPTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://91258a4e17c5c260ded40055aaa815e8c4944564/</location>
+			<title>HISTORY</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://91258a4e17c5c260ded40055aaa815e8c4944564/</location>
+			<title>HISTORY PL </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://14637710b608c584b3349a25a0971b1afe203619/</location>
+			<title>ID   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://14637710b608c584b3349a25a0971b1afe203619/</location>
+			<title>ID HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4d8c768bb2de60a7e5fc4ec0153f4885e2a17229/</location>
+			<title>NATGEO  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4d8c768bb2de60a7e5fc4ec0153f4885e2a17229/</location>
+			<title>NATIONAL GEOGRAPHIC</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e26a585978bdf0c13f60a797621141bc763ac6e3/</location>
+			<title>NSPORT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e26a585978bdf0c13f60a797621141bc763ac6e3/</location>
+			<title>NSPORT  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://105dfbb02ac64592c5eb77d29a10b4088c2b0a46/</location>
+			<title>POLSAT   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5c27d7395c021a3fb8479f6e2bf29a2a01b2c58c/</location>
+			<title>POLSAT 2  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5c27d7395c021a3fb8479f6e2bf29a2a01b2c58c/</location>
+			<title>POLSAT 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://65560c85110fa4c1c41898f4985f78edb3d526ae/</location>
+			<title>POLSAT CAFE  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://65560c85110fa4c1c41898f4985f78edb3d526ae/</location>
+			<title>POLSAT CAFE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://5c23cb0a7df58cb835df77391b2468643a9f0970/</location>
+			<title>POLSAT HD 1280</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://105dfbb02ac64592c5eb77d29a10b4088c2b0a46/</location>
+			<title>POLSAT HD 720</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4aab4ba0ad511f46f205e464a0b94d9c11c2da5a/</location>
+			<title>POLSAT NEWS  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4aab4ba0ad511f46f205e464a0b94d9c11c2da5a/</location>
+			<title>POLSAT NEWS  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4aab4ba0ad511f46f205e464a0b94d9c11c2da5a/</location>
+			<title>POLSAT NEWS HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://4aab4ba0ad511f46f205e464a0b94d9c11c2da5a/</location>
+			<title>POLSAT NEWS HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://57b101182b050f66b21fe1e59e28499d7a5ff218/</location>
+			<title>POLSAT PLAY  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://57b101182b050f66b21fe1e59e28499d7a5ff218/</location>
+			<title>POLSAT PLAY HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f48ab593193f64697c9b0571151b92455f4a5154/</location>
+			<title>POLSAT SPORT EXTRA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f48ab593193f64697c9b0571151b92455f4a5154/</location>
+			<title>POLSAT SPORT EXTRA   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://26c4aaf3b82c6860a70c9d0316caf27dc925b421/</location>
+			<title>POLSAT SPORT NEWS    PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://26c4aaf3b82c6860a70c9d0316caf27dc925b421/</location>
+			<title>POLSAT SUPER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f48ab593193f64697c9b0571151b92455f4a5154/</location>
+			<title>POLSAT SUPER</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f48ab593193f64697c9b0571151b92455f4a5154/</location>
+			<title>POLSAT SUPER  PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://7e58f4a756e80f25910e9f661d2220bd04ad4184/</location>
+			<title>TV4 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f5d7ca964ae1f4d77e00e0f9490abf4ac6f6b282/</location>
+			<title>TVN </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://31f21840943e34860ee7e90bd982dbf91ac80bf9/</location>
+			<title>TVN      PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://78c68998329e2cadf974204ec77ee8612945b212/</location>
+			<title>TVN  24    PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://b3f6ee6ddd61a3742373c7ac34192c4fe4a9c3d1/</location>
+			<title>TVN  TURBO    PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://31f21840943e34860ee7e90bd982dbf91ac80bf9/</location>
+			<title>TVN 1280</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://f5d7ca964ae1f4d77e00e0f9490abf4ac6f6b282/</location>
+			<title>TVN 1280</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://78c68998329e2cadf974204ec77ee8612945b212/</location>
+			<title>TVN 24</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e4fd00053f60e8b1bfefc21d996b04e66754d2c9/</location>
+			<title>TVN STYLE   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://e4fd00053f60e8b1bfefc21d996b04e66754d2c9/</location>
+			<title>TVN STYLE HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://b3f6ee6ddd61a3742373c7ac34192c4fe4a9c3d1/</location>
+			<title>TVN TURBO</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0c415a04a198152051ce8249d10c75e0e5780017/</location>
+			<title>TVP 1     PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://0c415a04a198152051ce8249d10c75e0e5780017/</location>
+			<title>TVP 1 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://9ddadd78cdf926e45fcc956d6d57b6404d855c9c/</location>
+			<title>TVP 2    PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://9ddadd78cdf926e45fcc956d6d57b6404d855c9c/</location>
+			<title>TVP 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://36cd70df41d98692e98c854755c86b0082667d2e/</location>
+			<title>TVP KULTURA</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://36cd70df41d98692e98c854755c86b0082667d2e/</location>
+			<title>TVP KULTURA     PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://3964a32f6133c95cc875918e2a4682e5bcbf8457/</location>
+			<title>TVP SPORT</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>acestream://3964a32f6133c95cc875918e2a4682e5bcbf8457/</location>
+			<title>TVP SPORT   PL  </title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+				<vlc:option>deinterlace=-1</vlc:option>
+				<vlc:option>deinterlace-mode=bob</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+	</extension>
+</playlist>
