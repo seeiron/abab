@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="??? ???????? ?????????????">
+  <channel id="1">
+    <display-name lang="ru">Djing Classic</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\+??.gif" />
+  </channel>
+  <channel id="2">
+    <display-name lang="ru">Djing HD</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\1+1.gif" />
+  </channel>
+  <channel id="3">
+    <display-name lang="ru">Djing Ibiza</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\1+1 ?????????????.gif" />
+  </channel>
+  <channel id="4">
+    <display-name lang="ru">DJING Ibiza</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\11 ????? ?????????????? (T2).gif" />
+  </channel>
+  <channel id="5">
+    <display-name lang="ru">Djing Underground</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\112 ???????.gif" />
+  </channel>
+  <channel id="6">
+    <display-name lang="ru">One.by</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\112 ??????? HD.gif" />
+  </channel>
+  <channel id="7">
+    <display-name lang="ru">One.by HD</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\12 ????? - ???4" />
+  </channel>
+  <channel id="8">
+    <display-name lang="ru">1HD</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\1HD.gif" />
+  </channel>
+  <channel id="9">
+    <display-name lang="ru">One.by UHD</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\2+2.gif" />
+  </channel>
+  <channel id="10">
+    <display-name lang="ru">ESKA BEST MUSIC TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\24 (????????? ???????? 24).gif" />
+  </channel>
+  <channel id="379">
+    <display-name lang="ru">ESKA PARTY TV
+</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\2x2" />
+  </channel>
+  <channel id="12">
+    <display-name lang="ru">ESKA ROCK TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\2?2 (+2).gif" />
+  </channel>
+  <channel id="13">
+    <display-name lang="ru">MUSIC VOX TV Olds cool</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\2?2 (+5).gif" />
+  </channel>
+  <channel id="745">
+    <display-name lang="ru">Ocko gold</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.mail.ru\Icons\31 ?????.png" />
+  </channel>
+  <channel id="14">
+    <display-name lang="ru">Music Box</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\34 ????? (??????????????).gif" />
+  </channel>
+  <channel id="380">
+    <display-name lang="ru">Music Box UA</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\360&#176; ???????????" />
+  </channel>
+  <channel id="15">
+    <display-name lang="ru">360TuneBox</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\360TuneBox.gif" />
+  </channel>
+  <channel id="381">
+    <display-name lang="ru">Music Vox TV
+</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\365 ???? ??" />
+  </channel>
+  <channel id="271">
+    <display-name lang="ru">Muzzone
+</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\???????? - 41" />
+  </channel>
+  <channel id="747">
+    <display-name lang="ru">NRJ Hits</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\47 ?????" />
+  </channel>
+  <channel id="746">
+    <display-name lang="ru">Ocko</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\49 ?????" />
+  </channel>
+  <channel id="17">
+    <display-name lang="ru">Ocko expres</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\5 ?????.gif" />
+  </channel>
+  <channel id="18">
+    <display-name lang="ru">MTV AM</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\5 ????? (??????) (+2).gif" />
+  </channel>
+  <channel id="19">
+    <display-name lang="ru">MTV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\5 ????? (??????) (+4).gif" />
+  </channel>
+  <channel id="20">
+    <display-name lang="ru">Virgin Radio TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\5 ????? (??????) (+7).gif" />
+  </channel>
+  <channel id="22">
+    <display-name lang="ru">Russian Music Box
+</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\7 ????? (??????).gif" />
+  </channel>
+  <channel id="783">
+    <display-name lang="ru">Radio 105 TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\78" />
+  </channel>
+  <channel id="268">
+    <display-name lang="ru">RADIO ONE TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\8 ?????" />
+  </channel>
+  <channel id="23">
+    <display-name lang="ru">Virgin Radio TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\tv.yandex.ru\Icons\8 ????? - ???????????? ????" />
+  </channel>
+  <channel id="24">
+    <display-name lang="ru">RADIO MONTE CARLO TV</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\8 ????? (????????).gif" />
+  </channel>
+  <channel id="25">
+    <display-name lang="ru">MTV Dance</display-name>
+    <icon src="E:\PortableApps\KIT\Providers\vsetv.com\Icons\8 ????? (??????).gif" />
+  </channel>
+</tv>
