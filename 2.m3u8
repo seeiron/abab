@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0,1HD
+http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:0,1Music (Hungary)
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,360 (Ярославль)
+http://gtk.tv/hls/gtr.m3u8
+#EXTINF:0,ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0,Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:0,Djing Classic
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,Djing HD
+http://cdn.djing.com/tv/05.m3u8
+#EXTINF:0,Djing Ibiza
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,Djing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:0,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,ESKA BEST MUSIC TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:0,ESKA PARTY TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:0,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:0,Global Star TV
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+#EXTINF:0,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Hit Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:0,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+#EXTINF:0,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:18000,MCM Top
+http://185.162.141.69:9009/mcmtop
+#EXTINF:0,MTV (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:0,MTV AM
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0,MTV Dance
+http://185.162.141.69:9014/mtvdance
+#EXTINF:0,Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+#EXTINF:0,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0,Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:0,MUSIC VOX TV Olds cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:0,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:0,Nebiset
+http://94.228.201.117:8000/play/a00b
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:0,NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:0,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0,Ocko expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0,Ocko gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+#EXTINF:0,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:0,Radio 105 TV
+http://tv.105.net/live/105Test1/playlist.m3u8
+#EXTINF:0,RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0,RADIO ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0,Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:0,Virgin Radio TV
+http://tv.105.net:1935/live/virgin1/index.m3u8
+#EXTINF:0,Wawa TV
+http://stream.cdn.smcloud.net/wawa-t/wawa_720p/playlist.m3u8
+#EXTINF:0,World Fashion
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+#EXTINF:0,World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+#EXTINF:0,World Fashion RU
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+#EXTINF:0,World Fashion RU
+http://cdn-03.bonus-tv.ru/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+#EXTINF:0,О2
+http://94.228.201.117:8000/play/a00h
+#EXTINF:0,О2 ТВ HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:0,ТНТ Music
+http://cdn-g.bonus-tv.ru/tntmusic/playlist.m3u8
