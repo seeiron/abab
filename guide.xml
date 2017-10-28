@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.0.6 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="101">
+    <display-name lang="en">1HD</display-name>
+  </channel>
+  <channel id="102">
+    <display-name lang="en">1Music (Hungary)</display-name>
+  </channel>
+  <channel id="103">
+    <display-name lang="en">360 (Ярославль)</display-name>
+  </channel>
+  <channel id="104">
+    <display-name lang="en">ALEX BERLIN (Urban Music)</display-name>
+  </channel>
+  <channel id="105">
+    <display-name lang="en">Capital TV
+</display-name>
+  </channel>
+  <channel id="106">
+    <display-name lang="en">Clubland</display-name>
+  </channel>
+  <channel id="107">
+    <display-name lang="en">Deluxe Music</display-name>
+  </channel>
+  <channel id="108">
+    <display-name lang="en">Djing Classic
+</display-name>
+  </channel>
+  <channel id="109">
+    <display-name lang="en">Djing HD</display-name>
+  </channel>
+  <channel id="110">
+    <display-name lang="en">Djing Ibiza</display-name>
+  </channel>
+  <channel id="112">
+    <display-name lang="en">Djing Underground</display-name>
+  </channel>
+  <channel id="113">
+    <display-name lang="en">Dream TV</display-name>
+  </channel>
+  <channel id="114">
+    <display-name lang="en">ESKA BEST MUSIC TVA
+</display-name>
+  </channel>
+  <channel id="115">
+    <display-name lang="en">ESKA PARTY TV</display-name>
+  </channel>
+  <channel id="116">
+    <display-name lang="en">Fresh TV</display-name>
+  </channel>
+  <channel id="117">
+    <display-name lang="en">Global Star TV</display-name>
+  </channel>
+  <channel id="118">
+    <display-name lang="en">HD Fashion UA</display-name>
+  </channel>
+  <channel id="119">
+    <display-name lang="en">Heart TV</display-name>
+  </channel>
+  <channel id="120">
+    <display-name lang="en">Hit Music</display-name>
+  </channel>
+  <channel id="121">
+    <display-name lang="en">HITV
+</display-name>
+  </channel>
+  <channel id="122">
+    <display-name lang="en">ID Fashion HD
+</display-name>
+  </channel>
+  <channel id="123">
+    <display-name lang="en">MCM Top</display-name>
+  </channel>
+  <channel id="124">
+    <display-name lang="en"MTV (Уфа)</display-name>
+  </channel>
+  <channel id="125">
+    <display-name lang="en">MTV AM</display-name>
+  </channel>
+  <channel id="126">
+    <display-name lang="en">MTV Dance</display-name>
+  </channel>
+  <channel id="127">
+    <display-name lang="en">Music Box</display-name>
+  </channel>
+  <channel id="128">
+    <display-name lang="en">Music Box UA</display-name>
+  </channel>
+  <channel id="129">
+    <display-name lang="en">Music Vox TV</display-name>
+  </channel>
+  <channel id="130">
+    <display-name lang="en">MUSIC VOX TV Olds cool</display-name>
+  </channel>
+  <channel id="131">
+    <display-name lang="en">Muzzone</display-name>
+  </channel>
+  <channel id="132">
+    <display-name lang="en">Nebiset</display-name>
+  </channel>
+  <channel id="133">
+    <display-name lang="en">NRJ Hits</display-name>
+  </channel>
+  <channel id="134">
+    <display-name lang="en">NRJ TV</display-name>
+  </channel>
+  <channel id="135">
+    <display-name lang="en">Ocko</display-name>
+  </channel>
+  <channel id="136">
+    <display-name lang="en">Ocko expres</display-name>
+  </channel>
+  <channel id="137">
+    <display-name lang="en">Ocko gold</display-name>
+  </channel>
+  <channel id="138">
+    <display-name lang="en">One.by</display-name>
+  </channel>
+  <channel id="139">
+    <display-name lang="en">One.by HD</display-name>
+  </channel>
+  <channel id="140">
+    <display-name lang="en">Polo PARTY TV</display-name>
+  </channel>
+  <channel id="141">
+    <display-name lang="en">Radio 105 TV
+</display-name>
+  </channel>
+  <channel id="142">
+    <display-name lang="en">RADIO MONTE CARLO TV</display-name>
+  </channel>
+  <channel id="143">
+    <display-name lang="en">RADIO ONE TV</display-name>
+  </channel>
+  <channel id="284">
+    <display-name lang="en">Russian Music Box</display-name>
+  </channel>
+  <channel id="285">
+    <display-name lang="en">Virgin Radio TV</display-name>
+  </channel>
+  <channel id="286">
+    <display-name lang="en">Wawa TV</display-name>
+  </channel>
+  <channel id="417">
+    <display-name lang="en">World Fashion</display-name>
+  </channel>
+  <channel id="901">
+    <display-name lang="en">World Fashion RU</display-name>
+  </channel>
+  <channel id="902">
+    <display-name lang="ru">О2</display-name>
+  </channel>
+  <channel id="903">
+    <display-name lang="iv">О2 ТВ HD</display-name>
+  </channel>
+  <channel id="904">
+    <display-name lang="iv">ТНТ Music</display-name>
+  </channel>
+  <channel id="915">
+    <display-name lang="en">DJing Animation</display-name>
+  </channel>
+  <channel id="916">
+    <display-name lang="en">DJing HOT HOT HOT</display-name>
+  </channel>
+  <channel id="917">
+    <display-name lang="en">DJing Summer Vibes</display-name>
+  </channel>
+  <channel id="918">
+    <display-name lang="en">Clubbing TV</display-name>
+  </channel>
+  <channel id="919">
+    <display-name lang="ru">VH1 Classic</display-name>
+  </channel>
+  <channel id="920">
+    <display-name lang="ru">VH1 Europe</display-name>
+  </channel>
+  <channel id="922">
+    <display-name lang="en">VIVA</display-name>
+  </channel>
+  <channel id="923">
+    <display-name lang="en">4Music</display-name>
+  </channel>
+  <channel id="924">
+    <display-name lang="en">MTV HD</display-name>
+  </channel>
+  <channel id="925">
+    <display-name lang="en">MTV MUSIC</display-name>
+  </channel>
+  <channel id="926">
+    <display-name lang="en">MTV HITS</display-name>
+  </channel>
+  <channel id="927">
+    <display-name lang="en">MTV DANCE</display-name>
+  </channel>
+  <channel id="928">
+    <display-name lang="en">MTV ROCKS</display-name>
+  </channel>
+  <channel id="929">
+    <display-name lang="en">MTV CLASSIC</display-name>
+  </channel>
+  <channel id="930">
+    <display-name lang="en">MTV BASE</display-name>
+  </channel>
+  <channel id="941">
+    <display-name lang="en">VH1</display-name>
+  </channel>
+  <channel id="942">
+    <display-name lang="en">DJing </display-name>
+  </channel>
+  <channel id="943">
+    <display-name lang="en">DJing dancefloor</display-name>
+  </channel>
+  <channel id="944">
+    <display-name lang="en">Djing fta</display-name>
+  </channel>
+  <channel id="945">
+    <display-name lang="ru">DJING hits</display-name>
+  </channel>
+  <channel id="946">
+    <display-name lang="ru">DJING animation</display-name>
+  </channel>
+  <channel id="947">
+    <display-name lang="en">Djing underground</display-name>
+  </channel>
+  <channel id="948">
+    <display-name lang="en">Djing summer-vibes</display-name>
+  </channel>
+  <channel id="949">
+    <display-name lang="en">Djing electro-rock</display-name>
+  </channel>
+  <channel id="950">
+    <display-name lang="en">DJING french-touch</display-name>
+  </channel>
+  <channel id="951">
+    <display-name lang="en">Djing karaoke</display-name>
+  </channel>
+  <channel id="952">
+    <display-name lang="en">DJING hedonist</display-name>
+  </channel>
+  <channel id="953">
+    <display-name lang="en">Djing wild-edm</display-name>
+  </channel>
+</tv>
