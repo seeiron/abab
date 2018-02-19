@@ -345,3 +345,20 @@
   <channel id="	Kidz Only!	 "<display-name lang="pl">???	Toddler Tunes	??</display-name>   </channel>
   <channel id="	Kidz Only!	 "<display-name lang="pl">???	Tropicales	??</display-name>   </channel>
   <channel id="	Kidz Only!	 "<display-name lang="pl">???	Y2K	??</display-name>   </channel>
+<channel id="Wawa TV">     <display-name lang="pl">Kidz Only!</display-name>   </channel>
+  <channel id="World Fashion">     <display-name lang="pl">Metal</display-name>   </channel>
+  <channel id="World Fashion">     <display-name lang="pl">Mexicana</display-name>   </channel>
+  <channel id="World Fashion RU">     <display-name lang="pl">Musica Urbana</display-name>   </channel>
+  <channel id="World Fashion RU">     <display-name lang="pl">Pop & Country</display-name>   </channel>
+  <channel id="?2 ?? HD">     <display-name lang="pl">Pop Hits</display-name>   </channel>
+  <channel id="??? Music">     <display-name lang="pl">Pop Latino</display-name>   </channel>
+  <channel id="Brits Hits">     <display-name lang="pl">R&B Soul</display-name>   </channel>
+  <channel id="Dance/EDM">     <display-name lang="pl">Rap</display-name>   </channel>
+  <channel id="Hip-Hop And R&B">     <display-name lang="pl">Rap 2K</display-name>   </channel>
+  <channel id="Hit List">     <display-name lang="pl">Rock</display-name>   </channel>
+  <channel id="Indie">     <display-name lang="pl">Teen Beats</display-name>   </channel>
+  <channel id="Kidz Only!">     <display-name lang="pl">Throwback Jamz</display-name>   </channel>
+  <channel id="Metal">     <display-name lang="pl">Today</display-name>   </channel>
+  <channel id="Mexicana">     <display-name lang="pl">Toddler Tunes</display-name>   </channel>
+  <channel id="Musica Urbana">     <display-name lang="pl">Tropicales</display-name>   </channel>
+  <channel id="Pop & Country">     <display-name lang="pl">Y2K</display-name>   </channel>
