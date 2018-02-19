@@ -1,349 +1,347 @@
- <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.0.6 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="	1	 "<display-name lang="pl">???	13 Ulica FHD PL	??</display-name>   </channel>
-  <channel id="	2	 "<display-name lang="pl">???	13 Ulica PL	??</display-name>   </channel>
-  <channel id="	3	 "<display-name lang="pl">???	4Fun Dance PL	??</display-name>   </channel>
-  <channel id="	4	 "<display-name lang="pl">???	4Fun Gold Hits PL	??</display-name>   </channel>
-  <channel id="	5	 "<display-name lang="pl">???	4Fun TV PL	??</display-name>   </channel>
-  <channel id="	6	 "<display-name lang="pl">???	AMC PL	??</display-name>   </channel>
-  <channel id="	7	 "<display-name lang="pl">???	ATM Rozrywka TV PL	??</display-name>   </channel>
-  <channel id="	8	 "<display-name lang="pl">???	AXN Black PL	??</display-name>   </channel>
-  <channel id="	9	 "<display-name lang="pl">???	AXN FHD PL	??</display-name>   </channel>
-  <channel id="	10	 "<display-name lang="pl">???	AXN HD PL	??</display-name>   </channel>
-  <channel id="	11	 "<display-name lang="pl">???	AXN Spin FHD PL	??</display-name>   </channel>
-  <channel id="	12	 "<display-name lang="pl">???	AXN Spin PL	??</display-name>   </channel>
-  <channel id="	13	 "<display-name lang="pl">???	AXN White PL	??</display-name>   </channel>
-  <channel id="	14	 "<display-name lang="pl">???	Active Family PL	??</display-name>   </channel>
-  <channel id="	15	 "<display-name lang="pl">???	Adventure FHD PL	??</display-name>   </channel>
-  <channel id="	16	 "<display-name lang="pl">???	Ale Kino+ FHD PL	??</display-name>   </channel>
-  <channel id="	17	 "<display-name lang="pl">???	Ale Kino+ HD PL	??</display-name>   </channel>
-  <channel id="	18	 "<display-name lang="pl">???	Animal Planet FHD PL	??</display-name>   </channel>
-  <channel id="	19	 "<display-name lang="pl">???	BBC Earth HD PL	??</display-name>   </channel>
-  <channel id="	20	 "<display-name lang="pl">???	BBC HD PL	??</display-name>   </channel>
-  <channel id="	21	 "<display-name lang="pl">???	Boomerang PL	??</display-name>   </channel>
-  <channel id="	22	 "<display-name lang="pl">???	CANAL+ FAMILY FHD PL	??</display-name>   </channel>
-  <channel id="	23	 "<display-name lang="pl">???	CANAL+ FAMILY HD PL	??</display-name>   </channel>
-  <channel id="	24	 "<display-name lang="pl">???	CANAL+ PL	??</display-name>   </channel>
-  <channel id="	25	 "<display-name lang="pl">???	CBS Action PL	??</display-name>   </channel>
-  <channel id="	26	 "<display-name lang="pl">???	CBS Europa FHD PL	??</display-name>   </channel>
-  <channel id="	27	 "<display-name lang="pl">???	CBS Reality PL	??</display-name>   </channel>
-  <channel id="	28	 "<display-name lang="pl">???	Canal+ 1 FHD PL	??</display-name>   </channel>
-  <channel id="	29	 "<display-name lang="pl">???	Canal+ Discovery FHD PL	??</display-name>   </channel>
-  <channel id="	30	 "<display-name lang="pl">???	Canal+ Discovery HD PL	??</display-name>   </channel>
-  <channel id="	31	 "<display-name lang="pl">???	Canal+ FHD PL	??</display-name>   </channel>
-  <channel id="	32	 "<display-name lang="pl">???	Canal+ Film HD PL	??</display-name>   </channel>
-  <channel id="	33	 "<display-name lang="pl">???	Canal+ HD PL	??</display-name>   </channel>
-  <channel id="	34	 "<display-name lang="pl">???	Canal+ Seriale FHD PL	??</display-name>   </channel>
-  <channel id="	35	 "<display-name lang="pl">???	Canal+ Seriale HD PL	??</display-name>   </channel>
-  <channel id="	36	 "<display-name lang="pl">???	Canal+ Sport 2 FHD PL	??</display-name>   </channel>
-  <channel id="	37	 "<display-name lang="pl">???	Canal+ Sport 2 HD PL	??</display-name>   </channel>
-  <channel id="	38	 "<display-name lang="pl">???	Canal+ Sport FHD PL	??</display-name>   </channel>
-  <channel id="	39	 "<display-name lang="pl">???	Canal+ Sport HD PL	??</display-name>   </channel>
-  <channel id="	40	 "<display-name lang="pl">???	Canal+ Sport PL	??</display-name>   </channel>
-  <channel id="	41	 "<display-name lang="pl">???	Cartoon Network HD PL	??</display-name>   </channel>
-  <channel id="	42	 "<display-name lang="pl">???	Cbeebies PL	??</display-name>   </channel>
-  <channel id="	43	 "<display-name lang="pl">???	CineMax 1 FHD PL	??</display-name>   </channel>
-  <channel id="	44	 "<display-name lang="pl">???	CineMax 1 HD PL	??</display-name>   </channel>
-  <channel id="	45	 "<display-name lang="pl">???	Cinemax 2 HD PL	??</display-name>   </channel>
-  <channel id="	46	 "<display-name lang="pl">???	Comedy Central FHD PL	??</display-name>   </channel>
-  <channel id="	47	 "<display-name lang="pl">???	Comedy Central Family PL	??</display-name>   </channel>
-  <channel id="	48	 "<display-name lang="pl">???	Comedy Central PL	??</display-name>   </channel>
-  <channel id="	49	 "<display-name lang="pl">???	DTX FHD PL	??</display-name>   </channel>
-  <channel id="	50	 "<display-name lang="pl">???	DTX PL	??</display-name>   </channel>
-  <channel id="	51	 "<display-name lang="pl">???	Da Vinci Learning PL	??</display-name>   </channel>
-  <channel id="	52	 "<display-name lang="pl">???	Disco Polo Music HD PL	??</display-name>   </channel>
-  <channel id="	53	 "<display-name lang="pl">???	Disco Polo Music PL	??</display-name>   </channel>
-  <channel id="	54	 "<display-name lang="pl">???	Discovery Channel FHD PL	??</display-name>   </channel>
-  <channel id="	55	 "<display-name lang="pl">???	Discovery Channel PL	??</display-name>   </channel>
-  <channel id="	56	 "<display-name lang="pl">???	Discovery Historia PL	??</display-name>   </channel>
-  <channel id="	57	 "<display-name lang="pl">???	Discovery Life FHD PL	??</display-name>   </channel>
-  <channel id="	58	 "<display-name lang="pl">???	Discovery Life PL	??</display-name>   </channel>
-  <channel id="	59	 "<display-name lang="pl">???	Discovery Science HD PL	??</display-name>   </channel>
-  <channel id="	60	 "<display-name lang="pl">???	Disney Channel FHD PL	??</display-name>   </channel>
-  <channel id="	61	 "<display-name lang="pl">???	Disney Junior PL	??</display-name>   </channel>
-  <channel id="	62	 "<display-name lang="pl">???	Disney XD PL	??</display-name>   </channel>
-  <channel id="	63	 "<display-name lang="pl">???	Domo+ HD PL	??</display-name>   </channel>
-  <channel id="	64	 "<display-name lang="pl">???	E! FHD PL	??</display-name>   </channel>
-  <channel id="	65	 "<display-name lang="pl">???	Eleven Sports 1 FHD PL	??</display-name>   </channel>
-  <channel id="	66	 "<display-name lang="pl">???	Eleven Sports 2 FHD PL	??</display-name>   </channel>
-  <channel id="	67	 "<display-name lang="pl">???	Eleven Sports 3 FHD PL	??</display-name>   </channel>
-  <channel id="	68	 "<display-name lang="pl">???	Eleven Sports 4 FHD PL	??</display-name>   </channel>
-  <channel id="	69	 "<display-name lang="pl">???	Eska Best Music TV FHD PL	??</display-name>   </channel>
-  <channel id="	70	 "<display-name lang="pl">???	Eska Party TV FHD PL	??</display-name>   </channel>
-  <channel id="	71	 "<display-name lang="pl">???	Eska Rock TV FHD PL	??</display-name>   </channel>
-  <channel id="	72	 "<display-name lang="pl">???	Eska Rock TV PL	??</display-name>   </channel>
-  <channel id="	73	 "<display-name lang="pl">???	Eska TV Extra PL	??</display-name>   </channel>
-  <channel id="	74	 "<display-name lang="pl">???	Eska TV PL	??</display-name>   </channel>
-  <channel id="	75	 "<display-name lang="pl">???	Eska Wawa TV HD PL	??</display-name>   </channel>
-  <channel id="	76	 "<display-name lang="pl">???	EuroSport 1 HD PL	??</display-name>   </channel>
-  <channel id="	77	 "<display-name lang="pl">???	EuroSport 2 FHD PL	??</display-name>   </channel>
-  <channel id="	78	 "<display-name lang="pl">???	Eurosport 1 PL	??</display-name>   </channel>
-  <channel id="	79	 "<display-name lang="pl">???	Extreme Sports FHD PL	??</display-name>   </channel>
-  <channel id="	80	 "<display-name lang="pl">???	Extreme Sports HD PL	??</display-name>   </channel>
-  <channel id="	81	 "<display-name lang="pl">???	FOX Comedy FHD PL	??</display-name>   </channel>
-  <channel id="	82	 "<display-name lang="pl">???	FOX FHD PL	??</display-name>   </channel>
-  <channel id="	83	 "<display-name lang="pl">???	FOX PL	??</display-name>   </channel>
-  <channel id="	84	 "<display-name lang="pl">???	Fight Network FHD PL	??</display-name>   </channel>
-  <channel id="	85	 "<display-name lang="pl">???	Fightbox FHD PL	??</display-name>   </channel>
-  <channel id="	86	 "<display-name lang="pl">???	Fightbox PL	??</display-name>   </channel>
-  <channel id="	87	 "<display-name lang="pl">???	FilmBox Arthouse PL	??</display-name>   </channel>
-  <channel id="	88	 "<display-name lang="pl">???	Filmbox Action PL	??</display-name>   </channel>
-  <channel id="	89	 "<display-name lang="pl">???	Filmbox Extra FHD PL	??</display-name>   </channel>
-  <channel id="	90	 "<display-name lang="pl">???	Filmbox Extra PL	??</display-name>   </channel>
-  <channel id="	91	 "<display-name lang="pl">???	Filmbox Family PL	??</display-name>   </channel>
-  <channel id="	92	 "<display-name lang="pl">???	Filmbox HD PL	??</display-name>   </channel>
-  <channel id="	93	 "<display-name lang="pl">???	Filmbox Premium HD PL	??</display-name>   </channel>
-  <channel id="	94	 "<display-name lang="pl">???	Fokus TV PL	??</display-name>   </channel>
-  <channel id="	95	 "<display-name lang="pl">???	Fox Comedy PL	??</display-name>   </channel>
-  <channel id="	96	 "<display-name lang="pl">???	Golf Channel FHD PL	??</display-name>   </channel>
-  <channel id="	97	 "<display-name lang="pl">???	H2 FHD PL	??</display-name>   </channel>
-  <channel id="	98	 "<display-name lang="pl">???	HBO 1 FHD PL	??</display-name>   </channel>
-  <channel id="	99	 "<display-name lang="pl">???	HBO 1 HD PL	??</display-name>   </channel>
-  <channel id="	100	 "<display-name lang="pl">???	HBO 2 FHD PL	??</display-name>   </channel>
-  <channel id="	101	 "<display-name lang="pl">???	HBO 2 HD PL	??</display-name>   </channel>
-  <channel id="	102	 "<display-name lang="pl">???	HBO 3 HD PL	??</display-name>   </channel>
-  <channel id="	103	 "<display-name lang="pl">???	HGTV FHD PL	??</display-name>   </channel>
-  <channel id="	104	 "<display-name lang="pl">???	HGTV PL	??</display-name>   </channel>
-  <channel id="	105	 "<display-name lang="pl">???	HIP HOP TV PL	??</display-name>   </channel>
-  <channel id="	106	 "<display-name lang="pl">???	History FHD PL	??</display-name>   </channel>
-  <channel id="	107	 "<display-name lang="pl">???	History PL	??</display-name>   </channel>
-  <channel id="	108	 "<display-name lang="pl">???	Investigation Discovery FHD PL	??</display-name>   </channel>
-  <channel id="	109	 "<display-name lang="pl">???	Investigation Discovery PL	??</display-name>   </channel>
-  <channel id="	110	 "<display-name lang="pl">???	Kino Polska Muzyka PL	??</display-name>   </channel>
-  <channel id="	111	 "<display-name lang="pl">???	Kino Polska PL	??</display-name>   </channel>
-  <channel id="	112	 "<display-name lang="pl">???	Kino TV PL	??</display-name>   </channel>
-  <channel id="	113	 "<display-name lang="pl">???	Kuchnia+ FHD PL	??</display-name>   </channel>
-  <channel id="	114	 "<display-name lang="pl">???	Kuchnia+ HD PL	??</display-name>   </channel>
-  <channel id="	115	 "<display-name lang="pl">???	Lifetime FHD PL	??</display-name>   </channel>
-  <channel id="	116	 "<display-name lang="pl">???	Lifetime HD PL	??</display-name>   </channel>
-  <channel id="	117	 "<display-name lang="pl">???	METRO PL	??</display-name>   </channel>
-  <channel id="	118	 "<display-name lang="pl">???	MTV Dance HD PL	??</display-name>   </channel>
-  <channel id="	119	 "<display-name lang="pl">???	MTV FHD PL	??</display-name>   </channel>
-  <channel id="	120	 "<display-name lang="pl">???	MTV Live FHD PL	??</display-name>   </channel>
-  <channel id="	121	 "<display-name lang="pl">???	MTV Polska PL	??</display-name>   </channel>
-  <channel id="	122	 "<display-name lang="pl">???	MiniMini+ FHD PL	??</display-name>   </channel>
-  <channel id="	123	 "<display-name lang="pl">???	MiniMini+ HD PL	??</display-name>   </channel>
-  <channel id="	124	 "<display-name lang="pl">???	Motorwizja PL	??</display-name>   </channel>
-  <channel id="	125	 "<display-name lang="pl">???	Nat Geo FHD PL	??</display-name>   </channel>
-  <channel id="	126	 "<display-name lang="pl">???	Nat Geo PL	??</display-name>   </channel>
-  <channel id="	127	 "<display-name lang="pl">???	Nat Geo People FHD PL	??</display-name>   </channel>
-  <channel id="	128	 "<display-name lang="pl">???	Nat Geo Wild FHD PL	??</display-name>   </channel>
-  <channel id="	129	 "<display-name lang="pl">???	Nat Geo Wild PL	??</display-name>   </channel>
-  <channel id="	130	 "<display-name lang="pl">???	Nick JR. PL	??</display-name>   </channel>
-  <channel id="	131	 "<display-name lang="pl">???	Nickelodeon PL	??</display-name>   </channel>
-  <channel id="	132	 "<display-name lang="pl">???	Nowa TV PL	??</display-name>   </channel>
-  <channel id="	133	 "<display-name lang="pl">???	Nuta.TV PL	??</display-name>   </channel>
-  <channel id="	134	 "<display-name lang="pl">???	POLSAT JimJam PL	??</display-name>   </channel>
-  <channel id="	135	 "<display-name lang="pl">???	POLSAT Sport Fight FHD PL	??</display-name>   </channel>
-  <channel id="	136	 "<display-name lang="pl">???	POLSAT Viasat Explore FHD PL	??</display-name>   </channel>
-  <channel id="	137	 "<display-name lang="pl">???	POLSAT Viasat Nature PL	??</display-name>   </channel>
-  <channel id="	138	 "<display-name lang="pl">???	Paramount Channel FHD PL	??</display-name>   </channel>
-  <channel id="	139	 "<display-name lang="pl">???	Planete+ FHD PL	??</display-name>   </channel>
-  <channel id="	140	 "<display-name lang="pl">???	Planete+ PL	??</display-name>   </channel>
-  <channel id="	141	 "<display-name lang="pl">???	Polo Party TV PL	??</display-name>   </channel>
-  <channel id="	142	 "<display-name lang="pl">???	Polo TV PL	??</display-name>   </channel>
-  <channel id="	143	 "<display-name lang="pl">???	Polsat 2 FHD PL	??</display-name>   </channel>
-  <channel id="	144	 "<display-name lang="pl">???	Polsat 2 HD PL	??</display-name>   </channel>
-  <channel id="	145	 "<display-name lang="pl">???	Polsat 2 PL	??</display-name>   </channel>
-  <channel id="	146	 "<display-name lang="pl">???	Polsat Cafe HD PL	??</display-name>   </channel>
-  <channel id="	147	 "<display-name lang="pl">???	Polsat Doku FHD PL	??</display-name>   </channel>
-  <channel id="	148	 "<display-name lang="pl">???	Polsat FHD PL	??</display-name>   </channel>
-  <channel id="	149	 "<display-name lang="pl">???	Polsat Film FHD PL	??</display-name>   </channel>
-  <channel id="	150	 "<display-name lang="pl">???	Polsat Film HD PL	??</display-name>   </channel>
-  <channel id="	151	 "<display-name lang="pl">???	Polsat Film PL	??</display-name>   </channel>
-  <channel id="	152	 "<display-name lang="pl">???	Polsat Music FHD PL	??</display-name>   </channel>
-  <channel id="	153	 "<display-name lang="pl">???	Polsat News 2 PL	??</display-name>   </channel>
-  <channel id="	154	 "<display-name lang="pl">???	Polsat News FHD PL	??</display-name>   </channel>
-  <channel id="	155	 "<display-name lang="pl">???	Polsat News PL	??</display-name>   </channel>
-  <channel id="	156	 "<display-name lang="pl">???	Polsat PL	??</display-name>   </channel>
-  <channel id="	157	 "<display-name lang="pl">???	Polsat Play FHD PL	??</display-name>   </channel>
-  <channel id="	158	 "<display-name lang="pl">???	Polsat Play HD PL	??</display-name>   </channel>
-  <channel id="	159	 "<display-name lang="pl">???	Polsat Play PL	??</display-name>   </channel>
-  <channel id="	160	 "<display-name lang="pl">???	Polsat Romans PL	??</display-name>   </channel>
-  <channel id="	161	 "<display-name lang="pl">???	Polsat Sport Extra FHD PL	??</display-name>   </channel>
-  <channel id="	162	 "<display-name lang="pl">???	Polsat Sport Extra HD PL	??</display-name>   </channel>
-  <channel id="	163	 "<display-name lang="pl">???	Polsat Sport Extra PL	??</display-name>   </channel>
-  <channel id="	164	 "<display-name lang="pl">???	Polsat Sport FHD PL	??</display-name>   </channel>
-  <channel id="	165	 "<display-name lang="pl">???	Polsat Sport Fight HD PL	??</display-name>   </channel>
-  <channel id="	166	 "<display-name lang="pl">???	Polsat Sport HD PL	??</display-name>   </channel>
-  <channel id="	167	 "<display-name lang="pl">???	Polsat Sport News HD PL	??</display-name>   </channel>
-  <channel id="	168	 "<display-name lang="pl">???	Polsat Sport PL	??</display-name>   </channel>
-  <channel id="	169	 "<display-name lang="pl">???	Polsat Viasat History FHD PL	??</display-name>   </channel>
-  <channel id="	170	 "<display-name lang="pl">???	Power TV PL	??</display-name>   </channel>
-  <channel id="	171	 "<display-name lang="pl">???	Puls 2 PL	??</display-name>   </channel>
-  <channel id="	172	 "<display-name lang="pl">???	Romance FHD PL	??</display-name>   </channel>
-  <channel id="	173	 "<display-name lang="pl">???	SciFi Universal PL	??</display-name>   </channel>
-  <channel id="	174	 "<display-name lang="pl">???	Sport Klub FHD PL	??</display-name>   </channel>
-  <channel id="	175	 "<display-name lang="pl">???	Stars TV PL	??</display-name>   </channel>
-  <channel id="	176	 "<display-name lang="pl">???	Stopklatka TV PL	??</display-name>   </channel>
-  <channel id="	177	 "<display-name lang="pl">???	Sundance FHD PL	??</display-name>   </channel>
-  <channel id="	178	 "<display-name lang="pl">???	Super Polsat FHD PL	??</display-name>   </channel>
-  <channel id="	179	 "<display-name lang="pl">???	Superstacja PL	??</display-name>   </channel>
-  <channel id="	180	 "<display-name lang="pl">???	TLC FHD PL	??</display-name>   </channel>
-  <channel id="	181	 "<display-name lang="pl">???	TLC PL	??</display-name>   </channel>
-  <channel id="	182	 "<display-name lang="pl">???	TNT FHD PL	??</display-name>   </channel>
-  <channel id="	183	 "<display-name lang="pl">???	TNT HD PL	??</display-name>   </channel>
-  <channel id="	184	 "<display-name lang="pl">???	TNT PL	??</display-name>   </channel>
-  <channel id="	185	 "<display-name lang="pl">???	TO!TV PL	??</display-name>   </channel>
-  <channel id="	186	 "<display-name lang="pl">???	TTV FHD PL	??</display-name>   </channel>
-  <channel id="	187	 "<display-name lang="pl">???	TV 4 HD PL	??</display-name>   </channel>
-  <channel id="	188	 "<display-name lang="pl">???	TV 4 PL	??</display-name>   </channel>
-  <channel id="	189	 "<display-name lang="pl">???	TV Puls FHD PL	??</display-name>   </channel>
-  <channel id="	190	 "<display-name lang="pl">???	TV Puls HD PL	??</display-name>   </channel>
-  <channel id="	191	 "<display-name lang="pl">???	TV Republika PL	??</display-name>   </channel>
-  <channel id="	192	 "<display-name lang="pl">???	TV Trwam PL	??</display-name>   </channel>
-  <channel id="	193	 "<display-name lang="pl">???	TV4 HD PL	??</display-name>   </channel>
-  <channel id="	194	 "<display-name lang="pl">???	TV6 FHD PL	??</display-name>   </channel>
-  <channel id="	195	 "<display-name lang="pl">???	TV6 HD PL	??</display-name>   </channel>
-  <channel id="	196	 "<display-name lang="pl">???	TVN 24 FHD PL	??</display-name>   </channel>
-  <channel id="	197	 "<display-name lang="pl">???	TVN 24 HD PL	??</display-name>   </channel>
-  <channel id="	198	 "<display-name lang="pl">???	TVN 24 PL	??</display-name>   </channel>
-  <channel id="	199	 "<display-name lang="pl">???	TVN 7 FHD PL	??</display-name>   </channel>
-  <channel id="	200	 "<display-name lang="pl">???	TVN 7 HD PL	??</display-name>   </channel>
-  <channel id="	201	 "<display-name lang="pl">???	TVN FHD PL	??</display-name>   </channel>
-  <channel id="	202	 "<display-name lang="pl">???	TVN Fabula FHD PL	??</display-name>   </channel>
-  <channel id="	203	 "<display-name lang="pl">???	TVN HD PL	??</display-name>   </channel>
-  <channel id="	204	 "<display-name lang="pl">???	TVN PL	??</display-name>   </channel>
-  <channel id="	205	 "<display-name lang="pl">???	TVN Style FHD PL	??</display-name>   </channel>
-  <channel id="	206	 "<display-name lang="pl">???	TVN Style PL	??</display-name>   </channel>
-  <channel id="	207	 "<display-name lang="pl">???	TVN Turbo FHD PL	??</display-name>   </channel>
-  <channel id="	208	 "<display-name lang="pl">???	TVN Turbo PL	??</display-name>   </channel>
-  <channel id="	209	 "<display-name lang="pl">???	TVN24 BiS PL	??</display-name>   </channel>
-  <channel id="	210	 "<display-name lang="pl">???	TVP 1 FHD PL	??</display-name>   </channel>
-  <channel id="	211	 "<display-name lang="pl">???	TVP 1 HD PL	??</display-name>   </channel>
-  <channel id="	212	 "<display-name lang="pl">???	TVP 2 FHD PL	??</display-name>   </channel>
-  <channel id="	213	 "<display-name lang="pl">???	TVP 2 PL	??</display-name>   </channel>
-  <channel id="	214	 "<display-name lang="pl">???	TVP 3 PL	??</display-name>   </channel>
-  <channel id="	215	 "<display-name lang="pl">???	TVP 3 Warszawa PL	??</display-name>   </channel>
-  <channel id="	216	 "<display-name lang="pl">???	TVP ABC PL	??</display-name>   </channel>
-  <channel id="	217	 "<display-name lang="pl">???	TVP FHD PL	??</display-name>   </channel>
-  <channel id="	218	 "<display-name lang="pl">???	TVP HD PL	??</display-name>   </channel>
-  <channel id="	219	 "<display-name lang="pl">???	TVP Historia PL	??</display-name>   </channel>
-  <channel id="	220	 "<display-name lang="pl">???	TVP Info FHD PL	??</display-name>   </channel>
-  <channel id="	221	 "<display-name lang="pl">???	TVP Info PL	??</display-name>   </channel>
-  <channel id="	222	 "<display-name lang="pl">???	TVP Kultura PL	??</display-name>   </channel>
-  <channel id="	223	 "<display-name lang="pl">???	TVP Polonia PL	??</display-name>   </channel>
-  <channel id="	224	 "<display-name lang="pl">???	TVP Rozrywka PL	??</display-name>   </channel>
-  <channel id="	225	 "<display-name lang="pl">???	TVP Seriale PL	??</display-name>   </channel>
-  <channel id="	226	 "<display-name lang="pl">???	TVP Sport FHD PL	??</display-name>   </channel>
-  <channel id="	227	 "<display-name lang="pl">???	TVP Sport HD PL	??</display-name>   </channel>
-  <channel id="	228	 "<display-name lang="pl">???	TVS PL	??</display-name>   </channel>
-  <channel id="	229	 "<display-name lang="pl">???	TeleToon+ FHD PL	??</display-name>   </channel>
-  <channel id="	230	 "<display-name lang="pl">???	TeleToon+ PL	??</display-name>   </channel>
-  <channel id="	231	 "<display-name lang="pl">???	Tenis Premium 1 PL	??</display-name>   </channel>
-  <channel id="	232	 "<display-name lang="pl">???	Tenis Premium 2 PL	??</display-name>   </channel>
-  <channel id="	233	 "<display-name lang="pl">???	Trace Urban PL	??</display-name>   </channel>
-  <channel id="	234	 "<display-name lang="pl">???	Travel HD PL	??</display-name>   </channel>
-  <channel id="	235	 "<display-name lang="pl">???	Twoja.TV FHD PL	??</display-name>   </channel>
-  <channel id="	236	 "<display-name lang="pl">???	Universal FHD PL	??</display-name>   </channel>
-  <channel id="	237	 "<display-name lang="pl">???	VH1 PL	??</display-name>   </channel>
-  <channel id="	238	 "<display-name lang="pl">???	VIVA Polska PL	??</display-name>   </channel>
-  <channel id="	239	 "<display-name lang="pl">???	VOD 202 PL	??</display-name>   </channel>
-  <channel id="	240	 "<display-name lang="pl">???	VOD 204 PL	??</display-name>   </channel>
-  <channel id="	241	 "<display-name lang="pl">???	VOD 205 PL	??</display-name>   </channel>
-  <channel id="	242	 "<display-name lang="pl">???	VOD 206 PL	??</display-name>   </channel>
-  <channel id="	243	 "<display-name lang="pl">???	VOD 207 PL	??</display-name>   </channel>
-  <channel id="	244	 "<display-name lang="pl">???	VOD 208 PL	??</display-name>   </channel>
-  <channel id="	245	 "<display-name lang="pl">???	VOD 212 PL	??</display-name>   </channel>
-  <channel id="	246	 "<display-name lang="pl">???	VOX Music TV Old's Cool HD PL	??</display-name>   </channel>
-  <channel id="	247	 "<display-name lang="pl">???	VOX Music TV Old's Cool PL	??</display-name>   </channel>
-  <channel id="	248	 "<display-name lang="pl">???	VOX Music TV PL	??</display-name>   </channel>
-  <channel id="	249	 "<display-name lang="pl">???	WP PL	??</display-name>   </channel>
-  <channel id="	250	 "<display-name lang="pl">???	Wellbeing Network PL	??</display-name>   </channel>
-  <channel id="	251	 "<display-name lang="pl">???	Zest TV PL	??</display-name>   </channel>
-  <channel id="	252	 "<display-name lang="pl">???	Zoom TV PL	??</display-name>   </channel>
-  <channel id="	253	 "<display-name lang="pl">???	nSport FHD PL	??</display-name>   </channel>
-  <channel id="	254	 "<display-name lang="pl">???	ALEX BERLIN (Urban Music)	??</display-name>   </channel>
-  <channel id="	255	 "<display-name lang="pl">???	Capital TV	??</display-name>   </channel>
-  <channel id="	256	 "<display-name lang="pl">???	Clubland	??</display-name>   </channel>
-  <channel id="	257	 "<display-name lang="pl">???	Djing Classic	??</display-name>   </channel>
-  <channel id="	258	 "<display-name lang="pl">???	Djing HD	??</display-name>   </channel>
-  <channel id="	259	 "<display-name lang="pl">???	Djing Ibiza	??</display-name>   </channel>
-  <channel id="	260	 "<display-name lang="pl">???	DJING Ibiza	??</display-name>   </channel>
-  <channel id="	261	 "<display-name lang="pl">???	Djing Underground	??</display-name>   </channel>
-  <channel id="	262	 "<display-name lang="pl">???	Djing	??</display-name>   </channel>
-  <channel id="	263	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	264	 "<display-name lang="pl">???	Djing dancefloor	??</display-name>   </channel>
-  <channel id="	265	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	266	 "<display-name lang="pl">???	Djing fta	??</display-name>   </channel>
-  <channel id="	267	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	268	 "<display-name lang="pl">???	DJING hits	??</display-name>   </channel>
-  <channel id="	269	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	270	 "<display-name lang="pl">???	DJING animation	??</display-name>   </channel>
-  <channel id="	271	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	272	 "<display-name lang="pl">???	Djing underground	??</display-name>   </channel>
-  <channel id="	273	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	274	 "<display-name lang="pl">???	Djing summer-vibes	??</display-name>   </channel>
-  <channel id="	275	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	276	 "<display-name lang="pl">???	Djing electro-rock	??</display-name>   </channel>
-  <channel id="	277	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	278	 "<display-name lang="pl">???	DJING french-touch	??</display-name>   </channel>
-  <channel id="	279	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	280	 "<display-name lang="pl">???	Djing karaoke	??</display-name>   </channel>
-  <channel id="	281	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	282	 "<display-name lang="pl">???	DJING hedonist	??</display-name>   </channel>
-  <channel id="	283	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	284	 "<display-name lang="pl">???	Djing wild-edm	??</display-name>   </channel>
-  <channel id="	285	 "<display-name lang="pl">???	s	??</display-name>   </channel>
-  <channel id="	286	 "<display-name lang="pl">???	Dream TV	??</display-name>   </channel>
-  <channel id="	287	 "<display-name lang="pl">???	ESKA BEST MUSIC TV	??</display-name>   </channel>
-  <channel id="	288	 "<display-name lang="pl">???	ESKA PARTY TV	??</display-name>   </channel>
-  <channel id="	289	 "<display-name lang="pl">???	Fresh TV	??</display-name>   </channel>
-  <channel id="	290	 "<display-name lang="pl">???	Global Star TV	??</display-name>   </channel>
-  <channel id="	291	 "<display-name lang="pl">???	HD Fashion UA	??</display-name>   </channel>
-  <channel id="	292	 "<display-name lang="pl">???	Heart TV	??</display-name>   </channel>
-  <channel id="	293	 "<display-name lang="pl">???	Hit Music	??</display-name>   </channel>
-  <channel id="	294	 "<display-name lang="pl">???	HITV	??</display-name>   </channel>
-  <channel id="	295	 "<display-name lang="pl">???	ID Fashion HD	??</display-name>   </channel>
-  <channel id="	296	 "<display-name lang="pl">???	MCM Top	??</display-name>   </channel>
-  <channel id="	297	 "<display-name lang="pl">???	MTV (???)	??</display-name>   </channel>
-  <channel id="	298	 "<display-name lang="pl">???	MTV AM	??</display-name>   </channel>
-  <channel id="	299	 "<display-name lang="pl">???	MTV Dance	??</display-name>   </channel>
-  <channel id="	300	 "<display-name lang="pl">???	Music Box	??</display-name>   </channel>
-  <channel id="	301	 "<display-name lang="pl">???	Music Box UA	??</display-name>   </channel>
-  <channel id="	302	 "<display-name lang="pl">???	Music Vox TV	??</display-name>   </channel>
-  <channel id="	303	 "<display-name lang="pl">???	MUSIC VOX TV Olds cool	??</display-name>   </channel>
-  <channel id="	304	 "<display-name lang="pl">???	Muzzone	??</display-name>   </channel>
-  <channel id="	305	 "<display-name lang="pl">???	Nebiset	??</display-name>   </channel>
-  <channel id="	306	 "<display-name lang="pl">???	NRJ Hits	??</display-name>   </channel>
-  <channel id="	307	 "<display-name lang="pl">???	NRJ TV	??</display-name>   </channel>
-  <channel id="	308	 "<display-name lang="pl">???	Ocko	??</display-name>   </channel>
-  <channel id="	309	 "<display-name lang="pl">???	Ocko expres	??</display-name>   </channel>
-  <channel id="	310	 "<display-name lang="pl">???	Ocko gold	??</display-name>   </channel>
-  <channel id="	311	 "<display-name lang="pl">???	One.by	??</display-name>   </channel>
-  <channel id="	312	 "<display-name lang="pl">???	One.by HD	??</display-name>   </channel>
-  <channel id="	313	 "<display-name lang="pl">???	Polo PARTY TV	??</display-name>   </channel>
-  <channel id="	314	 "<display-name lang="pl">???	Radio 105 TV	??</display-name>   </channel>
-  <channel id="	315	 "<display-name lang="pl">???	RADIO MONTE CARLO TV	??</display-name>   </channel>
-  <channel id="	316	 "<display-name lang="pl">???	RADIO ONE TV	??</display-name>   </channel>
-  <channel id="	317	 "<display-name lang="pl">???	Russian Music Box	??</display-name>   </channel>
-  <channel id="	318	 "<display-name lang="pl">???	Virgin Radio TV	??</display-name>   </channel>
-  <channel id="	319	 "<display-name lang="pl">???	Wawa TV	??</display-name>   </channel>
-  <channel id="	320	 "<display-name lang="pl">???	World Fashion	??</display-name>   </channel>
-  <channel id="	321	 "<display-name lang="pl">???	World Fashion	??</display-name>   </channel>
-  <channel id="	322	 "<display-name lang="pl">???	World Fashion RU	??</display-name>   </channel>
-  <channel id="	323	 "<display-name lang="pl">???	World Fashion RU	??</display-name>   </channel>
-  <channel id="	324	 "<display-name lang="pl">???	?2 ?? HD	??</display-name>   </channel>
-  <channel id="	325	 "<display-name lang="pl">???	??? Music	??</display-name>   </channel>
-  <channel id="	326	 "<display-name lang="pl">???	Brits Hits	??</display-name>   </channel>
-  <channel id="	327	 "<display-name lang="pl">???	Dance/EDM	??</display-name>   </channel>
-  <channel id="	328	 "<display-name lang="pl">???	Hip-Hop And R&B	??</display-name>   </channel>
-  <channel id="	329	 "<display-name lang="pl">???	Hit List	??</display-name>   </channel>
-  <channel id="	330	 "<display-name lang="pl">???	Indie	??</display-name>   </channel>
-  <channel id="	331	 "<display-name lang="pl">???	Kidz Only!	??</display-name>   </channel>
-  <channel id="	332	 "<display-name lang="pl">???	Metal	??</display-name>   </channel>
-  <channel id="	333	 "<display-name lang="pl">???	Mexicana	??</display-name>   </channel>
-  <channel id="	334	 "<display-name lang="pl">???	Musica Urbana	??</display-name>   </channel>
-  <channel id="	335	 "<display-name lang="pl">???	Pop & Country	??</display-name>   </channel>
-  <channel id="	336	 "<display-name lang="pl">???	Pop Hits	??</display-name>   </channel>
-  <channel id="	337	 "<display-name lang="pl">???	Pop Latino	??</display-name>   </channel>
-  <channel id="	338	 "<display-name lang="pl">???	R&B Soul	??</display-name>   </channel>
-  <channel id="	339	 "<display-name lang="pl">???	Rap	??</display-name>   </channel>
-  <channel id="	340	 "<display-name lang="pl">???	Rap 2K	??</display-name>   </channel>
-  <channel id="	341	 "<display-name lang="pl">???	Rock	??</display-name>   </channel>
-  <channel id="	342	 "<display-name lang="pl">???	Teen Beats	??</display-name>   </channel>
-  <channel id="	343	 "<display-name lang="pl">???	Throwback Jamz	??</display-name>   </channel>
-  <channel id="	344	 "<display-name lang="pl">???	Today	??</display-name>   </channel>
-  <channel id="	345	 "<display-name lang="pl">???	Toddler Tunes	??</display-name>   </channel>
-  <channel id="	346	 "<display-name lang="pl">???	Tropicales	??</display-name>   </channel>
-  <channel id="	347	 "<display-name lang="pl">???	Y2K	??</display-name>   </channel>
+  <channel id="	2	 "<display-name lang="pl">???	13 Ulica PL	</display-name>   </channel>
+  <channel id="	3	 "<display-name lang="pl">???	4Fun Dance PL	</display-name>   </channel>
+  <channel id="	4	 "<display-name lang="pl">???	4Fun Gold Hits PL	</display-name>   </channel>
+  <channel id="	5	 "<display-name lang="pl">???	4Fun TV PL	</display-name>   </channel>
+  <channel id="	6	 "<display-name lang="pl">???	AMC PL	</display-name>   </channel>
+  <channel id="	7	 "<display-name lang="pl">???	ATM Rozrywka TV PL	</display-name>   </channel>
+  <channel id="	8	 "<display-name lang="pl">???	AXN Black PL	</display-name>   </channel>
+  <channel id="	9	 "<display-name lang="pl">???	AXN FHD PL	</display-name>   </channel>
+  <channel id="	10	 "<display-name lang="pl">???	AXN HD PL	</display-name>   </channel>
+  <channel id="	11	 "<display-name lang="pl">???	AXN Spin FHD PL	</display-name>   </channel>
+  <channel id="	12	 "<display-name lang="pl">???	AXN Spin PL	</display-name>   </channel>
+  <channel id="	13	 "<display-name lang="pl">???	AXN White PL	</display-name>   </channel>
+  <channel id="	14	 "<display-name lang="pl">???	Active Family PL	</display-name>   </channel>
+  <channel id="	15	 "<display-name lang="pl">???	Adventure FHD PL	</display-name>   </channel>
+  <channel id="	16	 "<display-name lang="pl">???	Ale Kino+ FHD PL	</display-name>   </channel>
+  <channel id="	17	 "<display-name lang="pl">???	Ale Kino+ HD PL	</display-name>   </channel>
+  <channel id="	18	 "<display-name lang="pl">???	Animal Planet FHD PL	</display-name>   </channel>
+  <channel id="	19	 "<display-name lang="pl">???	BBC Earth HD PL	</display-name>   </channel>
+  <channel id="	20	 "<display-name lang="pl">???	BBC HD PL	</display-name>   </channel>
+  <channel id="	21	 "<display-name lang="pl">???	Boomerang PL	</display-name>   </channel>
+  <channel id="	22	 "<display-name lang="pl">???	CANAL+ FAMILY FHD PL	</display-name>   </channel>
+  <channel id="	23	 "<display-name lang="pl">???	CANAL+ FAMILY HD PL	</display-name>   </channel>
+  <channel id="	24	 "<display-name lang="pl">???	CANAL+ PL	</display-name>   </channel>
+  <channel id="	25	 "<display-name lang="pl">???	CBS Action PL	</display-name>   </channel>
+  <channel id="	26	 "<display-name lang="pl">???	CBS Europa FHD PL	</display-name>   </channel>
+  <channel id="	27	 "<display-name lang="pl">???	CBS Reality PL	</display-name>   </channel>
+  <channel id="	28	 "<display-name lang="pl">???	Canal+ 1 FHD PL	</display-name>   </channel>
+  <channel id="	29	 "<display-name lang="pl">???	Canal+ Discovery FHD PL	</display-name>   </channel>
+  <channel id="	30	 "<display-name lang="pl">???	Canal+ Discovery HD PL	</display-name>   </channel>
+  <channel id="	31	 "<display-name lang="pl">???	Canal+ FHD PL	</display-name>   </channel>
+  <channel id="	32	 "<display-name lang="pl">???	Canal+ Film HD PL	</display-name>   </channel>
+  <channel id="	33	 "<display-name lang="pl">???	Canal+ HD PL	</display-name>   </channel>
+  <channel id="	34	 "<display-name lang="pl">???	Canal+ Seriale FHD PL	</display-name>   </channel>
+  <channel id="	35	 "<display-name lang="pl">???	Canal+ Seriale HD PL	</display-name>   </channel>
+  <channel id="	36	 "<display-name lang="pl">???	Canal+ Sport 2 FHD PL	</display-name>   </channel>
+  <channel id="	37	 "<display-name lang="pl">???	Canal+ Sport 2 HD PL	</display-name>   </channel>
+  <channel id="	38	 "<display-name lang="pl">???	Canal+ Sport FHD PL	</display-name>   </channel>
+  <channel id="	39	 "<display-name lang="pl">???	Canal+ Sport HD PL	</display-name>   </channel>
+  <channel id="	40	 "<display-name lang="pl">???	Canal+ Sport PL	</display-name>   </channel>
+  <channel id="	41	 "<display-name lang="pl">???	Cartoon Network HD PL	</display-name>   </channel>
+  <channel id="	42	 "<display-name lang="pl">???	Cbeebies PL	</display-name>   </channel>
+  <channel id="	43	 "<display-name lang="pl">???	CineMax 1 FHD PL	</display-name>   </channel>
+  <channel id="	44	 "<display-name lang="pl">???	CineMax 1 HD PL	</display-name>   </channel>
+  <channel id="	45	 "<display-name lang="pl">???	Cinemax 2 HD PL	</display-name>   </channel>
+  <channel id="	46	 "<display-name lang="pl">???	Comedy Central FHD PL	</display-name>   </channel>
+  <channel id="	47	 "<display-name lang="pl">???	Comedy Central Family PL	</display-name>   </channel>
+  <channel id="	48	 "<display-name lang="pl">???	Comedy Central PL	</display-name>   </channel>
+  <channel id="	49	 "<display-name lang="pl">???	DTX FHD PL	</display-name>   </channel>
+  <channel id="	50	 "<display-name lang="pl">???	DTX PL	</display-name>   </channel>
+  <channel id="	51	 "<display-name lang="pl">???	Da Vinci Learning PL	</display-name>   </channel>
+  <channel id="	52	 "<display-name lang="pl">???	Disco Polo Music HD PL	</display-name>   </channel>
+  <channel id="	53	 "<display-name lang="pl">???	Disco Polo Music PL	</display-name>   </channel>
+  <channel id="	54	 "<display-name lang="pl">???	Discovery Channel FHD PL	</display-name>   </channel>
+  <channel id="	55	 "<display-name lang="pl">???	Discovery Channel PL	</display-name>   </channel>
+  <channel id="	56	 "<display-name lang="pl">???	Discovery Historia PL	</display-name>   </channel>
+  <channel id="	57	 "<display-name lang="pl">???	Discovery Life FHD PL	</display-name>   </channel>
+  <channel id="	58	 "<display-name lang="pl">???	Discovery Life PL	</display-name>   </channel>
+  <channel id="	59	 "<display-name lang="pl">???	Discovery Science HD PL	</display-name>   </channel>
+  <channel id="	60	 "<display-name lang="pl">???	Disney Channel FHD PL	</display-name>   </channel>
+  <channel id="	61	 "<display-name lang="pl">???	Disney Junior PL	</display-name>   </channel>
+  <channel id="	62	 "<display-name lang="pl">???	Disney XD PL	</display-name>   </channel>
+  <channel id="	63	 "<display-name lang="pl">???	Domo+ HD PL	</display-name>   </channel>
+  <channel id="	64	 "<display-name lang="pl">???	E! FHD PL	</display-name>   </channel>
+  <channel id="	65	 "<display-name lang="pl">???	Eleven Sports 1 FHD PL	</display-name>   </channel>
+  <channel id="	66	 "<display-name lang="pl">???	Eleven Sports 2 FHD PL	</display-name>   </channel>
+  <channel id="	67	 "<display-name lang="pl">???	Eleven Sports 3 FHD PL	</display-name>   </channel>
+  <channel id="	68	 "<display-name lang="pl">???	Eleven Sports 4 FHD PL	</display-name>   </channel>
+  <channel id="	69	 "<display-name lang="pl">???	Eska Best Music TV FHD PL	</display-name>   </channel>
+  <channel id="	70	 "<display-name lang="pl">???	Eska Party TV FHD PL	</display-name>   </channel>
+  <channel id="	71	 "<display-name lang="pl">???	Eska Rock TV FHD PL	</display-name>   </channel>
+  <channel id="	72	 "<display-name lang="pl">???	Eska Rock TV PL	</display-name>   </channel>
+  <channel id="	73	 "<display-name lang="pl">???	Eska TV Extra PL	</display-name>   </channel>
+  <channel id="	74	 "<display-name lang="pl">???	Eska TV PL	</display-name>   </channel>
+  <channel id="	75	 "<display-name lang="pl">???	Eska Wawa TV HD PL	</display-name>   </channel>
+  <channel id="	76	 "<display-name lang="pl">???	EuroSport 1 HD PL	</display-name>   </channel>
+  <channel id="	77	 "<display-name lang="pl">???	EuroSport 2 FHD PL	</display-name>   </channel>
+  <channel id="	78	 "<display-name lang="pl">???	Eurosport 1 PL	</display-name>   </channel>
+  <channel id="	79	 "<display-name lang="pl">???	Extreme Sports FHD PL	</display-name>   </channel>
+  <channel id="	80	 "<display-name lang="pl">???	Extreme Sports HD PL	</display-name>   </channel>
+  <channel id="	81	 "<display-name lang="pl">???	FOX Comedy FHD PL	</display-name>   </channel>
+  <channel id="	82	 "<display-name lang="pl">???	FOX FHD PL	</display-name>   </channel>
+  <channel id="	83	 "<display-name lang="pl">???	FOX PL	</display-name>   </channel>
+  <channel id="	84	 "<display-name lang="pl">???	Fight Network FHD PL	</display-name>   </channel>
+  <channel id="	85	 "<display-name lang="pl">???	Fightbox FHD PL	</display-name>   </channel>
+  <channel id="	86	 "<display-name lang="pl">???	Fightbox PL	</display-name>   </channel>
+  <channel id="	87	 "<display-name lang="pl">???	FilmBox Arthouse PL	</display-name>   </channel>
+  <channel id="	88	 "<display-name lang="pl">???	Filmbox Action PL	</display-name>   </channel>
+  <channel id="	89	 "<display-name lang="pl">???	Filmbox Extra FHD PL	</display-name>   </channel>
+  <channel id="	90	 "<display-name lang="pl">???	Filmbox Extra PL	</display-name>   </channel>
+  <channel id="	91	 "<display-name lang="pl">???	Filmbox Family PL	</display-name>   </channel>
+  <channel id="	92	 "<display-name lang="pl">???	Filmbox HD PL	</display-name>   </channel>
+  <channel id="	93	 "<display-name lang="pl">???	Filmbox Premium HD PL	</display-name>   </channel>
+  <channel id="	94	 "<display-name lang="pl">???	Fokus TV PL	</display-name>   </channel>
+  <channel id="	95	 "<display-name lang="pl">???	Fox Comedy PL	</display-name>   </channel>
+  <channel id="	96	 "<display-name lang="pl">???	Golf Channel FHD PL	</display-name>   </channel>
+  <channel id="	97	 "<display-name lang="pl">???	H2 FHD PL	</display-name>   </channel>
+  <channel id="	98	 "<display-name lang="pl">???	HBO 1 FHD PL	</display-name>   </channel>
+  <channel id="	99	 "<display-name lang="pl">???	HBO 1 HD PL	</display-name>   </channel>
+  <channel id="	100	 "<display-name lang="pl">???	HBO 2 FHD PL	</display-name>   </channel>
+  <channel id="	101	 "<display-name lang="pl">???	HBO 2 HD PL	</display-name>   </channel>
+  <channel id="	102	 "<display-name lang="pl">???	HBO 3 HD PL	</display-name>   </channel>
+  <channel id="	103	 "<display-name lang="pl">???	HGTV FHD PL	</display-name>   </channel>
+  <channel id="	104	 "<display-name lang="pl">???	HGTV PL	</display-name>   </channel>
+  <channel id="	105	 "<display-name lang="pl">???	HIP HOP TV PL	</display-name>   </channel>
+  <channel id="	106	 "<display-name lang="pl">???	History FHD PL	</display-name>   </channel>
+  <channel id="	107	 "<display-name lang="pl">???	History PL	</display-name>   </channel>
+  <channel id="	108	 "<display-name lang="pl">???	Investigation Discovery FHD PL	</display-name>   </channel>
+  <channel id="	109	 "<display-name lang="pl">???	Investigation Discovery PL	</display-name>   </channel>
+  <channel id="	110	 "<display-name lang="pl">???	Kino Polska Muzyka PL	</display-name>   </channel>
+  <channel id="	111	 "<display-name lang="pl">???	Kino Polska PL	</display-name>   </channel>
+  <channel id="	112	 "<display-name lang="pl">???	Kino TV PL	</display-name>   </channel>
+  <channel id="	113	 "<display-name lang="pl">???	Kuchnia+ FHD PL	</display-name>   </channel>
+  <channel id="	114	 "<display-name lang="pl">???	Kuchnia+ HD PL	</display-name>   </channel>
+  <channel id="	115	 "<display-name lang="pl">???	Lifetime FHD PL	</display-name>   </channel>
+  <channel id="	116	 "<display-name lang="pl">???	Lifetime HD PL	</display-name>   </channel>
+  <channel id="	117	 "<display-name lang="pl">???	METRO PL	</display-name>   </channel>
+  <channel id="	118	 "<display-name lang="pl">???	MTV Dance HD PL	</display-name>   </channel>
+  <channel id="	119	 "<display-name lang="pl">???	MTV FHD PL	</display-name>   </channel>
+  <channel id="	120	 "<display-name lang="pl">???	MTV Live FHD PL	</display-name>   </channel>
+  <channel id="	121	 "<display-name lang="pl">???	MTV Polska PL	</display-name>   </channel>
+  <channel id="	122	 "<display-name lang="pl">???	MiniMini+ FHD PL	</display-name>   </channel>
+  <channel id="	123	 "<display-name lang="pl">???	MiniMini+ HD PL	</display-name>   </channel>
+  <channel id="	124	 "<display-name lang="pl">???	Motorwizja PL	</display-name>   </channel>
+  <channel id="	125	 "<display-name lang="pl">???	Nat Geo FHD PL	</display-name>   </channel>
+  <channel id="	126	 "<display-name lang="pl">???	Nat Geo PL	</display-name>   </channel>
+  <channel id="	127	 "<display-name lang="pl">???	Nat Geo People FHD PL	</display-name>   </channel>
+  <channel id="	128	 "<display-name lang="pl">???	Nat Geo Wild FHD PL	</display-name>   </channel>
+  <channel id="	129	 "<display-name lang="pl">???	Nat Geo Wild PL	</display-name>   </channel>
+  <channel id="	130	 "<display-name lang="pl">???	Nick JR. PL	</display-name>   </channel>
+  <channel id="	131	 "<display-name lang="pl">???	Nickelodeon PL	</display-name>   </channel>
+  <channel id="	132	 "<display-name lang="pl">???	Nowa TV PL	</display-name>   </channel>
+  <channel id="	133	 "<display-name lang="pl">???	Nuta.TV PL	</display-name>   </channel>
+  <channel id="	134	 "<display-name lang="pl">???	POLSAT JimJam PL	</display-name>   </channel>
+  <channel id="	135	 "<display-name lang="pl">???	POLSAT Sport Fight FHD PL	</display-name>   </channel>
+  <channel id="	136	 "<display-name lang="pl">???	POLSAT Viasat Explore FHD PL	</display-name>   </channel>
+  <channel id="	137	 "<display-name lang="pl">???	POLSAT Viasat Nature PL	</display-name>   </channel>
+  <channel id="	138	 "<display-name lang="pl">???	Paramount Channel FHD PL	</display-name>   </channel>
+  <channel id="	139	 "<display-name lang="pl">???	Planete+ FHD PL	</display-name>   </channel>
+  <channel id="	140	 "<display-name lang="pl">???	Planete+ PL	</display-name>   </channel>
+  <channel id="	141	 "<display-name lang="pl">???	Polo Party TV PL	</display-name>   </channel>
+  <channel id="	142	 "<display-name lang="pl">???	Polo TV PL	</display-name>   </channel>
+  <channel id="	143	 "<display-name lang="pl">???	Polsat 2 FHD PL	</display-name>   </channel>
+  <channel id="	144	 "<display-name lang="pl">???	Polsat 2 HD PL	</display-name>   </channel>
+  <channel id="	145	 "<display-name lang="pl">???	Polsat 2 PL	</display-name>   </channel>
+  <channel id="	146	 "<display-name lang="pl">???	Polsat Cafe HD PL	</display-name>   </channel>
+  <channel id="	147	 "<display-name lang="pl">???	Polsat Doku FHD PL	</display-name>   </channel>
+  <channel id="	148	 "<display-name lang="pl">???	Polsat FHD PL	</display-name>   </channel>
+  <channel id="	149	 "<display-name lang="pl">???	Polsat Film FHD PL	</display-name>   </channel>
+  <channel id="	150	 "<display-name lang="pl">???	Polsat Film HD PL	</display-name>   </channel>
+  <channel id="	151	 "<display-name lang="pl">???	Polsat Film PL	</display-name>   </channel>
+  <channel id="	152	 "<display-name lang="pl">???	Polsat Music FHD PL	</display-name>   </channel>
+  <channel id="	153	 "<display-name lang="pl">???	Polsat News 2 PL	</display-name>   </channel>
+  <channel id="	154	 "<display-name lang="pl">???	Polsat News FHD PL	</display-name>   </channel>
+  <channel id="	155	 "<display-name lang="pl">???	Polsat News PL	</display-name>   </channel>
+  <channel id="	156	 "<display-name lang="pl">???	Polsat PL	</display-name>   </channel>
+  <channel id="	157	 "<display-name lang="pl">???	Polsat Play FHD PL	</display-name>   </channel>
+  <channel id="	158	 "<display-name lang="pl">???	Polsat Play HD PL	</display-name>   </channel>
+  <channel id="	159	 "<display-name lang="pl">???	Polsat Play PL	</display-name>   </channel>
+  <channel id="	160	 "<display-name lang="pl">???	Polsat Romans PL	</display-name>   </channel>
+  <channel id="	161	 "<display-name lang="pl">???	Polsat Sport Extra FHD PL	</display-name>   </channel>
+  <channel id="	162	 "<display-name lang="pl">???	Polsat Sport Extra HD PL	</display-name>   </channel>
+  <channel id="	163	 "<display-name lang="pl">???	Polsat Sport Extra PL	</display-name>   </channel>
+  <channel id="	164	 "<display-name lang="pl">???	Polsat Sport FHD PL	</display-name>   </channel>
+  <channel id="	165	 "<display-name lang="pl">???	Polsat Sport Fight HD PL	</display-name>   </channel>
+  <channel id="	166	 "<display-name lang="pl">???	Polsat Sport HD PL	</display-name>   </channel>
+  <channel id="	167	 "<display-name lang="pl">???	Polsat Sport News HD PL	</display-name>   </channel>
+  <channel id="	168	 "<display-name lang="pl">???	Polsat Sport PL	</display-name>   </channel>
+  <channel id="	169	 "<display-name lang="pl">???	Polsat Viasat History FHD PL	</display-name>   </channel>
+  <channel id="	170	 "<display-name lang="pl">???	Power TV PL	</display-name>   </channel>
+  <channel id="	171	 "<display-name lang="pl">???	Puls 2 PL	</display-name>   </channel>
+  <channel id="	172	 "<display-name lang="pl">???	Romance FHD PL	</display-name>   </channel>
+  <channel id="	173	 "<display-name lang="pl">???	SciFi Universal PL	</display-name>   </channel>
+  <channel id="	174	 "<display-name lang="pl">???	Sport Klub FHD PL	</display-name>   </channel>
+  <channel id="	175	 "<display-name lang="pl">???	Stars TV PL	</display-name>   </channel>
+  <channel id="	176	 "<display-name lang="pl">???	Stopklatka TV PL	</display-name>   </channel>
+  <channel id="	177	 "<display-name lang="pl">???	Sundance FHD PL	</display-name>   </channel>
+  <channel id="	178	 "<display-name lang="pl">???	Super Polsat FHD PL	</display-name>   </channel>
+  <channel id="	179	 "<display-name lang="pl">???	Superstacja PL	</display-name>   </channel>
+  <channel id="	180	 "<display-name lang="pl">???	TLC FHD PL	</display-name>   </channel>
+  <channel id="	181	 "<display-name lang="pl">???	TLC PL	</display-name>   </channel>
+  <channel id="	182	 "<display-name lang="pl">???	TNT FHD PL	</display-name>   </channel>
+  <channel id="	183	 "<display-name lang="pl">???	TNT HD PL	</display-name>   </channel>
+  <channel id="	184	 "<display-name lang="pl">???	TNT PL	</display-name>   </channel>
+  <channel id="	185	 "<display-name lang="pl">???	TO!TV PL	</display-name>   </channel>
+  <channel id="	186	 "<display-name lang="pl">???	TTV FHD PL	</display-name>   </channel>
+  <channel id="	187	 "<display-name lang="pl">???	TV 4 HD PL	</display-name>   </channel>
+  <channel id="	188	 "<display-name lang="pl">???	TV 4 PL	</display-name>   </channel>
+  <channel id="	189	 "<display-name lang="pl">???	TV Puls FHD PL	</display-name>   </channel>
+  <channel id="	190	 "<display-name lang="pl">???	TV Puls HD PL	</display-name>   </channel>
+  <channel id="	191	 "<display-name lang="pl">???	TV Republika PL	</display-name>   </channel>
+  <channel id="	192	 "<display-name lang="pl">???	TV Trwam PL	</display-name>   </channel>
+  <channel id="	193	 "<display-name lang="pl">???	TV4 HD PL	</display-name>   </channel>
+  <channel id="	194	 "<display-name lang="pl">???	TV6 FHD PL	</display-name>   </channel>
+  <channel id="	195	 "<display-name lang="pl">???	TV6 HD PL	</display-name>   </channel>
+  <channel id="	196	 "<display-name lang="pl">???	TVN 24 FHD PL	</display-name>   </channel>
+  <channel id="	197	 "<display-name lang="pl">???	TVN 24 HD PL	</display-name>   </channel>
+  <channel id="	198	 "<display-name lang="pl">???	TVN 24 PL	</display-name>   </channel>
+  <channel id="	199	 "<display-name lang="pl">???	TVN 7 FHD PL	</display-name>   </channel>
+  <channel id="	200	 "<display-name lang="pl">???	TVN 7 HD PL	</display-name>   </channel>
+  <channel id="	201	 "<display-name lang="pl">???	TVN FHD PL	</display-name>   </channel>
+  <channel id="	202	 "<display-name lang="pl">???	TVN Fabula FHD PL	</display-name>   </channel>
+  <channel id="	203	 "<display-name lang="pl">???	TVN HD PL	</display-name>   </channel>
+  <channel id="	204	 "<display-name lang="pl">???	TVN PL	</display-name>   </channel>
+  <channel id="	205	 "<display-name lang="pl">???	TVN Style FHD PL	</display-name>   </channel>
+  <channel id="	206	 "<display-name lang="pl">???	TVN Style PL	</display-name>   </channel>
+  <channel id="	207	 "<display-name lang="pl">???	TVN Turbo FHD PL	</display-name>   </channel>
+  <channel id="	208	 "<display-name lang="pl">???	TVN Turbo PL	</display-name>   </channel>
+  <channel id="	209	 "<display-name lang="pl">???	TVN24 BiS PL	</display-name>   </channel>
+  <channel id="	210	 "<display-name lang="pl">???	TVP 1 FHD PL	</display-name>   </channel>
+  <channel id="	211	 "<display-name lang="pl">???	TVP 1 HD PL	</display-name>   </channel>
+  <channel id="	212	 "<display-name lang="pl">???	TVP 2 FHD PL	</display-name>   </channel>
+  <channel id="	213	 "<display-name lang="pl">???	TVP 2 PL	</display-name>   </channel>
+  <channel id="	214	 "<display-name lang="pl">???	TVP 3 PL	</display-name>   </channel>
+  <channel id="	215	 "<display-name lang="pl">???	TVP 3 Warszawa PL	</display-name>   </channel>
+  <channel id="	216	 "<display-name lang="pl">???	TVP ABC PL	</display-name>   </channel>
+  <channel id="	217	 "<display-name lang="pl">???	TVP FHD PL	</display-name>   </channel>
+  <channel id="	218	 "<display-name lang="pl">???	TVP HD PL	</display-name>   </channel>
+  <channel id="	219	 "<display-name lang="pl">???	TVP Historia PL	</display-name>   </channel>
+  <channel id="	220	 "<display-name lang="pl">???	TVP Info FHD PL	</display-name>   </channel>
+  <channel id="	221	 "<display-name lang="pl">???	TVP Info PL	</display-name>   </channel>
+  <channel id="	222	 "<display-name lang="pl">???	TVP Kultura PL	</display-name>   </channel>
+  <channel id="	223	 "<display-name lang="pl">???	TVP Polonia PL	</display-name>   </channel>
+  <channel id="	224	 "<display-name lang="pl">???	TVP Rozrywka PL	</display-name>   </channel>
+  <channel id="	225	 "<display-name lang="pl">???	TVP Seriale PL	</display-name>   </channel>
+  <channel id="	226	 "<display-name lang="pl">???	TVP Sport FHD PL	</display-name>   </channel>
+  <channel id="	227	 "<display-name lang="pl">???	TVP Sport HD PL	</display-name>   </channel>
+  <channel id="	228	 "<display-name lang="pl">???	TVS PL	</display-name>   </channel>
+  <channel id="	229	 "<display-name lang="pl">???	TeleToon+ FHD PL	</display-name>   </channel>
+  <channel id="	230	 "<display-name lang="pl">???	TeleToon+ PL	</display-name>   </channel>
+  <channel id="	231	 "<display-name lang="pl">???	Tenis Premium 1 PL	</display-name>   </channel>
+  <channel id="	232	 "<display-name lang="pl">???	Tenis Premium 2 PL	</display-name>   </channel>
+  <channel id="	233	 "<display-name lang="pl">???	Trace Urban PL	</display-name>   </channel>
+  <channel id="	234	 "<display-name lang="pl">???	Travel HD PL	</display-name>   </channel>
+  <channel id="	235	 "<display-name lang="pl">???	Twoja.TV FHD PL	</display-name>   </channel>
+  <channel id="	236	 "<display-name lang="pl">???	Universal FHD PL	</display-name>   </channel>
+  <channel id="	237	 "<display-name lang="pl">???	VH1 PL	</display-name>   </channel>
+  <channel id="	238	 "<display-name lang="pl">???	VIVA Polska PL	</display-name>   </channel>
+  <channel id="	239	 "<display-name lang="pl">???	VOD 202 PL	</display-name>   </channel>
+  <channel id="	240	 "<display-name lang="pl">???	VOD 204 PL	</display-name>   </channel>
+  <channel id="	241	 "<display-name lang="pl">???	VOD 205 PL	</display-name>   </channel>
+  <channel id="	242	 "<display-name lang="pl">???	VOD 206 PL	</display-name>   </channel>
+  <channel id="	243	 "<display-name lang="pl">???	VOD 207 PL	</display-name>   </channel>
+  <channel id="	244	 "<display-name lang="pl">???	VOD 208 PL	</display-name>   </channel>
+  <channel id="	245	 "<display-name lang="pl">???	VOD 212 PL	</display-name>   </channel>
+  <channel id="	246	 "<display-name lang="pl">???	VOX Music TV Old's Cool HD PL	</display-name>   </channel>
+  <channel id="	247	 "<display-name lang="pl">???	VOX Music TV Old's Cool PL	</display-name>   </channel>
+  <channel id="	248	 "<display-name lang="pl">???	VOX Music TV PL	</display-name>   </channel>
+  <channel id="	249	 "<display-name lang="pl">???	WP PL	</display-name>   </channel>
+  <channel id="	250	 "<display-name lang="pl">???	Wellbeing Network PL	</display-name>   </channel>
+  <channel id="	251	 "<display-name lang="pl">???	Zest TV PL	</display-name>   </channel>
+  <channel id="	252	 "<display-name lang="pl">???	Zoom TV PL	</display-name>   </channel>
+  <channel id="	253	 "<display-name lang="pl">???	nSport FHD PL	</display-name>   </channel>
+  <channel id="	254	 "<display-name lang="pl">???	ALEX BERLIN (Urban Music)	</display-name>   </channel>
+  <channel id="	255	 "<display-name lang="pl">???	Capital TV	</display-name>   </channel>
+  <channel id="	256	 "<display-name lang="pl">???	Clubland	</display-name>   </channel>
+  <channel id="	257	 "<display-name lang="pl">???	Djing Classic	</display-name>   </channel>
+  <channel id="	258	 "<display-name lang="pl">???	Djing HD	</display-name>   </channel>
+  <channel id="	259	 "<display-name lang="pl">???	Djing Ibiza	</display-name>   </channel>
+  <channel id="	260	 "<display-name lang="pl">???	DJING Ibiza	</display-name>   </channel>
+  <channel id="	261	 "<display-name lang="pl">???	Djing Underground	</display-name>   </channel>
+  <channel id="	262	 "<display-name lang="pl">???	Djing	</display-name>   </channel>
+  <channel id="	263	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	264	 "<display-name lang="pl">???	Djing dancefloor	</display-name>   </channel>
+  <channel id="	265	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	266	 "<display-name lang="pl">???	Djing fta	</display-name>   </channel>
+  <channel id="	267	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	268	 "<display-name lang="pl">???	DJING hits	</display-name>   </channel>
+  <channel id="	269	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	270	 "<display-name lang="pl">???	DJING animation	</display-name>   </channel>
+  <channel id="	271	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	272	 "<display-name lang="pl">???	Djing underground	</display-name>   </channel>
+  <channel id="	273	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	274	 "<display-name lang="pl">???	Djing summer-vibes	</display-name>   </channel>
+  <channel id="	275	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	276	 "<display-name lang="pl">???	Djing electro-rock	</display-name>   </channel>
+  <channel id="	277	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	278	 "<display-name lang="pl">???	DJING french-touch	</display-name>   </channel>
+  <channel id="	279	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	280	 "<display-name lang="pl">???	Djing karaoke	</display-name>   </channel>
+  <channel id="	281	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	282	 "<display-name lang="pl">???	DJING hedonist	</display-name>   </channel>
+  <channel id="	283	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	284	 "<display-name lang="pl">???	Djing wild-edm	</display-name>   </channel>
+  <channel id="	285	 "<display-name lang="pl">???	s	</display-name>   </channel>
+  <channel id="	286	 "<display-name lang="pl">???	Dream TV	</display-name>   </channel>
+  <channel id="	287	 "<display-name lang="pl">???	ESKA BEST MUSIC TV	</display-name>   </channel>
+  <channel id="	288	 "<display-name lang="pl">???	ESKA PARTY TV	</display-name>   </channel>
+  <channel id="	289	 "<display-name lang="pl">???	Fresh TV	</display-name>   </channel>
+  <channel id="	290	 "<display-name lang="pl">???	Global Star TV	</display-name>   </channel>
+  <channel id="	291	 "<display-name lang="pl">???	HD Fashion UA	</display-name>   </channel>
+  <channel id="	292	 "<display-name lang="pl">???	Heart TV	</display-name>   </channel>
+  <channel id="	293	 "<display-name lang="pl">???	Hit Music	</display-name>   </channel>
+  <channel id="	294	 "<display-name lang="pl">???	HITV	</display-name>   </channel>
+  <channel id="	295	 "<display-name lang="pl">???	ID Fashion HD	</display-name>   </channel>
+  <channel id="	296	 "<display-name lang="pl">???	MCM Top	</display-name>   </channel>
+  <channel id="	297	 "<display-name lang="pl">???	MTV (???)	</display-name>   </channel>
+  <channel id="	298	 "<display-name lang="pl">???	MTV AM	</display-name>   </channel>
+  <channel id="	299	 "<display-name lang="pl">???	MTV Dance	</display-name>   </channel>
+  <channel id="	300	 "<display-name lang="pl">???	Music Box	</display-name>   </channel>
+  <channel id="	301	 "<display-name lang="pl">???	Music Box UA	</display-name>   </channel>
+  <channel id="	302	 "<display-name lang="pl">???	Music Vox TV	</display-name>   </channel>
+  <channel id="	303	 "<display-name lang="pl">???	MUSIC VOX TV Olds cool	</display-name>   </channel>
+  <channel id="	304	 "<display-name lang="pl">???	Muzzone	</display-name>   </channel>
+  <channel id="	305	 "<display-name lang="pl">???	Nebiset	</display-name>   </channel>
+  <channel id="	306	 "<display-name lang="pl">???	NRJ Hits	</display-name>   </channel>
+  <channel id="	307	 "<display-name lang="pl">???	NRJ TV	</display-name>   </channel>
+  <channel id="	308	 "<display-name lang="pl">???	Ocko	</display-name>   </channel>
+  <channel id="	309	 "<display-name lang="pl">???	Ocko expres	</display-name>   </channel>
+  <channel id="	310	 "<display-name lang="pl">???	Ocko gold	</display-name>   </channel>
+  <channel id="	311	 "<display-name lang="pl">???	One.by	</display-name>   </channel>
+  <channel id="	312	 "<display-name lang="pl">???	One.by HD	</display-name>   </channel>
+  <channel id="	313	 "<display-name lang="pl">???	Polo PARTY TV	</display-name>   </channel>
+  <channel id="	314	 "<display-name lang="pl">???	Radio 105 TV	</display-name>   </channel>
+  <channel id="	315	 "<display-name lang="pl">???	RADIO MONTE CARLO TV	</display-name>   </channel>
+  <channel id="	316	 "<display-name lang="pl">???	RADIO ONE TV	</display-name>   </channel>
+  <channel id="	317	 "<display-name lang="pl">???	Russian Music Box	</display-name>   </channel>
+  <channel id="	318	 "<display-name lang="pl">???	Virgin Radio TV	</display-name>   </channel>
+  <channel id="	319	 "<display-name lang="pl">???	Wawa TV	</display-name>   </channel>
+  <channel id="	320	 "<display-name lang="pl">???	World Fashion	</display-name>   </channel>
+  <channel id="	321	 "<display-name lang="pl">???	World Fashion	</display-name>   </channel>
+  <channel id="	322	 "<display-name lang="pl">???	World Fashion RU	</display-name>   </channel>
+  <channel id="	323	 "<display-name lang="pl">???	World Fashion RU	</display-name>   </channel>
+  <channel id="	324	 "<display-name lang="pl">???	?2 ?? HD	</display-name>   </channel>
+  <channel id="	325	 "<display-name lang="pl">???	??? Music	</display-name>   </channel>
+  <channel id="	326	 "<display-name lang="pl">???	Brits Hits	</display-name>   </channel>
+  <channel id="	327	 "<display-name lang="pl">???	Dance/EDM	</display-name>   </channel>
+  <channel id="	328	 "<display-name lang="pl">???	Hip-Hop And R&B	</display-name>   </channel>
+  <channel id="	329	 "<display-name lang="pl">???	Hit List	</display-name>   </channel>
+  <channel id="	330	 "<display-name lang="pl">???	Indie	</display-name>   </channel>
+  <channel id="	331	 "<display-name lang="pl">???	Kidz Only!	</display-name>   </channel>
+  <channel id="	332	 "<display-name lang="pl">???	Metal	</display-name>   </channel>
+  <channel id="	333	 "<display-name lang="pl">???	Mexicana	</display-name>   </channel>
+  <channel id="	334	 "<display-name lang="pl">???	Musica Urbana	</display-name>   </channel>
+  <channel id="	335	 "<display-name lang="pl">???	Pop & Country	</display-name>   </channel>
+  <channel id="	336	 "<display-name lang="pl">???	Pop Hits	</display-name>   </channel>
+  <channel id="	337	 "<display-name lang="pl">???	Pop Latino	</display-name>   </channel>
+  <channel id="	338	 "<display-name lang="pl">???	R&B Soul	</display-name>   </channel>
+  <channel id="	339	 "<display-name lang="pl">???	Rap	</display-name>   </channel>
+  <channel id="	340	 "<display-name lang="pl">???	Rap 2K	</display-name>   </channel>
+  <channel id="	341	 "<display-name lang="pl">???	Rock	</display-name>   </channel>
+  <channel id="	342	 "<display-name lang="pl">???	Teen Beats	</display-name>   </channel>
+  <channel id="	343	 "<display-name lang="pl">???	Throwback Jamz	</display-name>   </channel>
+  <channel id="	344	 "<display-name lang="pl">???	Today	</display-name>   </channel>
+  <channel id="	345	 "<display-name lang="pl">???	Toddler Tunes	</display-name>   </channel>
+  <channel id="	346	 "<display-name lang="pl">???	Tropicales	</display-name>   </channel>
+  <channel id="	347	 "<display-name lang="pl">???	Y2K	</display-name>   </channel>
