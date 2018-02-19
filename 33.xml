@@ -333,4 +333,5 @@
   <channel id="	Toddler Tunes	">     <display-name lang="pl">	Toddler Tunes	</display-name>   </channel>
   <channel id="	Tropicales	">     <display-name lang="pl">	Tropicales	</display-name>   </channel>
   <channel id="	Y2K	">     <display-name lang="pl">	Y2K	</display-name>   </channel>
-  <channel id="">     <display-name lang="pl">World Fashion</display-name>   </channel>
+  <channel id="O">     <display-name lang="pl">World Fashion</display-name>   </channel>
+  <channel id="Wawa TV">     <display-name lang="pl">Kidz Only!</display-name>   </channel>
