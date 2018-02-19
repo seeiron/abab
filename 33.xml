@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.0.6 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="	13 Ulica FHD PL	">     <display-name lang="pl">	13 Ulica FHD PL	</display-name>   </channel>
   <channel id="	13 Ulica PL	">     <display-name lang="pl">	13 Ulica PL	</display-name>   </channel>
   <channel id="	4Fun Dance PL	">     <display-name lang="pl">	4Fun Dance PL	</display-name>   </channel>
@@ -309,7 +307,7 @@
   <channel id="	Wawa TV	">     <display-name lang="pl">	Wawa TV	</display-name>   </channel>
   <channel id="	World Fashion	">     <display-name lang="pl">	World Fashion	</display-name>   </channel>
   <channel id="	World Fashion	">     <display-name lang="pl">	World Fashion	</display-name>   </channel>
-  <channel id="	World Fashion RU	">     <display-name lang="pl">	World Fashion RU	</display-name>   </channel>
+  <channel id="	Kidz Only!	">     <display-name lang="pl">	World Fashion RU	</display-name>   </channel>
   <channel id="	World Fashion RU	">     <display-name lang="pl">	World Fashion RU	</display-name>   </channel>
   <channel id="	?2 ?? HD	">     <display-name lang="pl">	?2 ?? HD	</display-name>   </channel>
   <channel id="	??? Music	">     <display-name lang="pl">	??? Music	</display-name>   </channel>
@@ -321,7 +319,7 @@
   <channel id="	Kidz Only!	">     <display-name lang="pl">	Kidz Only!	</display-name>   </channel>
   <channel id="	Metal	">     <display-name lang="pl">	Metal	</display-name>   </channel>
   <channel id="	Mexicana	">     <display-name lang="pl">	Mexicana	</display-name>   </channel>
-  <channel id="	Musica Urbana	">     <display-name lang="pl">	Musica Urbana	</display-name>   </channel>
+  <channel id="	Dance/EDM	">     <display-name lang="pl">	Musica Urbana	</display-name>   </channel>
   <channel id="	Pop & Country	">     <display-name lang="pl">	Pop & Country	</display-name>   </channel>
   <channel id="	Pop Hits	">     <display-name lang="pl">	Pop Hits	</display-name>   </channel>
   <channel id="	Pop Latino	">     <display-name lang="pl">	Pop Latino	</display-name>   </channel>
